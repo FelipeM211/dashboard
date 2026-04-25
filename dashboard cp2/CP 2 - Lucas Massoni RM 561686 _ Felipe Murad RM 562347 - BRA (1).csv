@@ -1,0 +1,838 @@
+País,Liga,Temporada,Data,Horário UK,Horário BR,Casa,Visitante,Gol Casa,Gol Fora,Árbitro,Falta Casa,Falta Fora,Cartão Amarelo Casa,Cartão Amarelo Fora,Cartão Vermelho Casa,Cartão Vermelho Fora,Min Vermelho Casa,Min Vermelho Fora,Teve Vermelho,Placar Pré 1º Vermelho,Placar Pós Ultimo Vermelho,Média odd Casa,Média odd Empate,Média odd Fora
+Brazil,Serie A,2024,13/04/2024,22:30,18:30,Criciuma,Juventude,1,1,Bruno Pereira Vasconcelos,11,15,4,6,0,0,-,-,Não,-,-,2.13,3,3.89
+Brazil,Serie A,2024,13/04/2024,22:30,18:30,Internacional,Bahia,2,1,Rodrigo Jose Pereira de Lima,21,13,8,3,0,0,-,-,Não,-,-,1.87,3.38,4.31
+Brazil,Serie A,2024,14/04/2024,01:00,21:00,Fluminense,Bragantino,2,2,Maguielson Lima Barbosa,8,19,3,4,0,0,-,-,Não,-,-,1.78,3.48,4.79
+Brazil,Serie A,2024,14/04/2024,01:00,21:00,Sao Paulo,Fortaleza,1,2,Alex Gomes Stefano,10,14,2,3,0,0,-,-,Não,-,-,1.88,3.29,4.47
+Brazil,Serie A,2024,14/04/2024,20:00,16:00,Athletico-PR,Cuiaba,4,0,Jonathan Berkenstein Pinheiro,16,9,0,3,0,0,-,-,Não,-,-,1.57,3.69,6.61
+Brazil,Serie A,2024,14/04/2024,20:00,16:00,Atletico GO,Flamengo RJ,1,2,Andre Luiz Skettino Policarpo Bento,12,12,5,3,2,0,45'+2 e 90'+11,-,Sim,0x0,1x2,4.83,3.69,1.72
+Brazil,Serie A,2024,14/04/2024,20:00,16:00,Corinthians,Atletico-MG,0,0,Yuri Elino Ferreira Da Cruz,16,14,8,6,0,1,-,45'+4,Sim,0x0,0x0,2.56,2.98,3
+Brazil,Serie A,2024,14/04/2024,20:00,16:00,Vasco,Gremio,2,1,Flavio Rodrigues De Souza,19,10,4,1,0,0,-,-,Não,-,-,2.17,3.22,3.4
+Brazil,Serie A,2024,14/04/2024,21:00,17:00,Cruzeiro,Botafogo RJ,3,2,Matheus Delgado Candançan,12,11,4,3,0,1,-,72',Sim,2x1,3x2,2.2,3.12,3.5
+Brazil,Serie A,2024,14/04/2024,22:30,18:30,Vitoria,Palmeiras,0,1,Braulio Da Silva Machado,12,15,3,5,0,0,-,-,Não,-,-,3.72,3.32,02.04
+Brazil,Serie A,2024,17/04/2024,01:30,21:30,Bahia,Fluminense,2,1,Joao Vitor Gobi,15,23,4,5,0,0,-,-,Não,-,-,2.11,3.4,3.43
+Brazil,Serie A,2024,17/04/2024,23:00,19:00,Bragantino,Vasco,2,1,Paulo Cesar Zanovelli da Silva,14,15,2,1,0,0,-,-,Não,-,-,1.94,3.44,3.96
+Brazil,Serie A,2024,17/04/2024,23:00,19:00,Gremio,Athletico-PR,2,0,Marcelo de Lima Henrique,7,13,1,3,0,0,-,-,Não,-,-,2.6,3.22,2.75
+Brazil,Serie A,2024,18/04/2024,00:00,20:00,Atletico-MG,Criciuma,1,1,Paulo Belence Alves Dos Prazeres Filho,12,10,2,4,0,0,-,-,Não,-,-,1.43,4.31,7.83
+Brazil,Serie A,2024,18/04/2024,00:00,20:00,Fortaleza,Cruzeiro,1,1,Bruno Mota Correia,13,10,2,3,0,1,-,87',Sim,1x0,1x1,1.96,3.28,4.11
+Brazil,Serie A,2024,18/04/2024,00:00,20:00,Juventude,Corinthians,2,0,Bruno Arleu de Araujo,16,10,3,1,1,0,90'+6,-,Sim,2x0,2x0,3.47,2.93,2.33
+Brazil,Serie A,2024,18/04/2024,00:00,20:00,Palmeiras,Internacional,0,1,Lucas Paulo Torezin,17,21,2,4,0,0,-,-,Não,-,-,1.68,3.55,5.55
+Brazil,Serie A,2024,18/04/2024,01:30,21:30,Flamengo RJ,Sao Paulo,2,1,Anderson Daronco,19,19,1,3,0,0,-,-,Não,-,-,1.7,3.44,5.55
+Brazil,Serie A,2024,19/04/2024,01:30,21:30,Botafogo RJ,Atletico GO,1,0,Luiz Flavio de Oliveira,13,11,3,4,0,0,-,-,Não,-,-,1.76,3.55,4.73
+Brazil,Serie A,2024,20/04/2024,20:00,16:00,Fluminense,Vasco,2,1,Wilton Pereira Sampaio,16,17,4,5,0,0,-,-,Não,-,-,1.96,3.38,3.93
+Brazil,Serie A,2024,20/04/2024,22:30,18:30,Bragantino,Corinthians,1,0,Rafael Rodrigo Klein,21,10,4,2,0,0,-,-,Não,-,-,2.22,3.25,3.31
+Brazil,Serie A,2024,20/04/2024,22:30,18:30,Gremio,Cuiaba,1,0,Bruno Pereira Vasconcelos,10,5,4,2,0,0,-,-,Não,-,-,1.7,3.45,5.47
+Brazil,Serie A,2024,21/04/2024,01:00,21:00,Atletico-MG,Cruzeiro,3,0,Ramon Abatti Abel,15,17,2,2,0,0,-,-,Não,-,-,1.88,3.34,4.37
+Brazil,Serie A,2024,21/04/2024,20:00,16:00,Athletico-PR,Internacional,1,0,Felipe Fernandes de Lima,15,15,4,5,1,0,87',-,Sim,1x0,1x0,1.99,3.33,3.87
+Brazil,Serie A,2024,21/04/2024,20:00,16:00,Palmeiras,Flamengo RJ,0,0,Rodrigo Jose Pereira de Lima,23,14,5,4,0,0,-,-,Não,-,-,02.09,3.18,3.78
+Brazil,Serie A,2024,21/04/2024,20:00,16:00,Vitoria,Bahia,2,2,Raphael Claus,12,13,3,3,0,0,-,-,Não,-,-,3.26,3.25,2.26
+Brazil,Serie A,2024,21/04/2024,22:30,18:30,Atletico GO,Sao Paulo,0,3,Braulio Da Silva Machado,13,9,5,0,2,0,51' e 63',-,Sim,1x0,3x0,2.87,2.99,2.65
+Brazil,Serie A,2024,21/04/2024,22:30,18:30,Botafogo RJ,Juventude,5,1,Arthur Gomes Rabelo,22,10,3,4,0,1,-,38',Sim,2x0,5x1,1.6,3.71,06.03
+Brazil,Serie A,2024,27/04/2024,20:00,16:00,Vasco,Criciuma,0,4,Caio Max Augusto Vieira,13,7,1,0,0,0,-,-,Não,-,-,1.66,3.57,5.58
+Brazil,Serie A,2024,27/04/2024,22:30,18:30,Cuiaba,Atletico-MG,0,3,Savio Pereira Sampaio,11,17,4,5,0,1,-,86',Sim,0x3,0x3,3.51,2.85,2.35
+Brazil,Serie A,2024,28/04/2024,01:00,21:00,Bahia,Gremio,1,0,Braulio Da Silva Machado,10,15,2,4,0,1,-,90'+8,Sim,1x0,1x0,1.72,3.76,4.65
+Brazil,Serie A,2024,28/04/2024,15:00,11:00,Flamengo RJ,Botafogo RJ,0,2,Raphael Claus,12,15,1,4,0,0,-,-,Não,-,-,1.58,3.98,5.58
+Brazil,Serie A,2024,28/04/2024,20:00,16:00,Corinthians,Fluminense,3,0,Ramon Abatti Abel,15,15,4,2,0,0,-,-,Não,-,-,2.19,3.13,3.48
+Brazil,Serie A,2024,28/04/2024,20:00,16:00,Cruzeiro,Vitoria,3,1,Fabio Augusto Santos Sa Junior,12,6,2,0,0,0,-,-,Não,-,-,1.53,3.95,6.35
+Brazil,Serie A,2024,28/04/2024,22:30,18:30,Fortaleza,Bragantino,1,1,Davi de Oliveira Lacerda,9,6,1,1,0,0,-,-,Não,-,-,2.2,3.18,3.38
+Brazil,Serie A,2024,28/04/2024,22:30,18:30,Juventude,Athletico-PR,1,1,Alex Gomes Stefano,12,17,2,2,0,0,-,-,Não,-,-,2.91,2.97,2.62
+Brazil,Serie A,2024,29/04/2024,00:00,20:00,Internacional,Atletico GO,1,1,Edina Alves Batista,13,12,0,4,0,0,-,-,Não,-,-,1.53,3.79,6.63
+Brazil,Serie A,2024,30/04/2024,00:00,20:00,Sao Paulo,Palmeiras,0,0,Wilton Pereira Sampaio,10,20,4,3,0,0,-,-,Não,-,-,2.61,2.92,2.98
+Brazil,Serie A,2024,04/05/2024,20:00,16:00,Fluminense,Atletico-MG,2,2,Raphael Claus,11,18,5,2,0,0,-,-,Não,-,-,3.44,3.24,2.16
+Brazil,Serie A,2024,04/05/2024,22:30,18:30,Bragantino,Flamengo RJ,1,1,Paulo Cesar Zanovelli da Silva,17,10,2,2,0,0,-,-,Não,-,-,2.8,3.11,2.6
+Brazil,Serie A,2024,05/05/2024,01:00,21:00,Corinthians,Fortaleza,0,0,Felipe Fernandes de Lima,14,17,1,7,0,0,-,-,Não,-,-,2.13,03.06,3.78
+Brazil,Serie A,2024,05/05/2024,20:00,16:00,Athletico-PR,Vasco,1,0,Anderson Daronco,11,9,1,0,0,1,-,16',Sim,0x0,1x0,1.66,3.73,5.22
+Brazil,Serie A,2024,05/05/2024,20:00,16:00,Vitoria,Sao Paulo,1,3,Ramon Abatti Abel,10,13,3,4,1,0,7',-,Sim,0x0,1x3,3.66,03.04,2.18
+Brazil,Serie A,2024,05/05/2024,22:30,18:30,Botafogo RJ,Bahia,1,2,Rafael Rodrigo Klein,10,5,2,2,0,0,-,-,Não,-,-,2.11,3.48,3.34
+Brazil,Serie A,2024,05/05/2024,22:30,18:30,Cuiaba,Palmeiras,0,2,Bruno Arleu de Araujo,10,11,2,3,0,0,-,-,Não,-,-,4.99,3.18,1.83
+Brazil,Serie A,2024,11/05/2024,20:00,16:00,Flamengo RJ,Corinthians,2,0,Ramon Abatti Abel,12,16,1,1,0,0,-,-,Não,-,-,1.59,3.8,06.03
+Brazil,Serie A,2024,12/05/2024,20:00,16:00,Atletico GO,Cruzeiro,0,1,Rodrigo Jose Pereira de Lima,13,10,1,2,0,0,-,-,Não,-,-,2.98,3.11,2.48
+Brazil,Serie A,2024,12/05/2024,20:00,16:00,Fortaleza,Botafogo RJ,1,1,Wilton Pereira Sampaio,12,19,4,6,0,0,-,-,Não,-,-,1.96,3.38,3.97
+Brazil,Serie A,2024,12/05/2024,20:00,16:00,Palmeiras,Athletico-PR,0,2,Braulio Da Silva Machado,11,17,4,6,0,1,-,67',Sim,2x0,2x0,1.7,3.67,4.96
+Brazil,Serie A,2024,12/05/2024,22:30,18:30,Bahia,Bragantino,1,0,Gustavo Ervino Bauermann,12,15,2,3,0,0,-,-,Não,-,-,1.79,3.7,4.33
+Brazil,Serie A,2024,12/05/2024,22:30,18:30,Vasco,Vitoria,2,1,Raphael Claus,12,12,5,2,0,1,-,90'+2,Sim,2x1,2x1,1.73,3.6,4.89
+Brazil,Serie A,2024,14/05/2024,00:00,20:00,Sao Paulo,Fluminense,2,1,Anderson Daronco,15,12,5,3,0,0,-,-,Não,-,-,1.69,3.6,5.15
+Brazil,Serie A,2024,01/06/2024,20:00,16:00,Gremio,Bragantino,0,2,Ramon Abatti Abel,16,19,4,5,0,0,-,-,Não,-,-,3.17,3.15,2.34
+Brazil,Serie A,2024,01/06/2024,20:00,16:00,Vitoria,Atletico GO,0,2,Kleber Ariel Goncalves da Silva,7,9,3,2,2,0,39' e 83',-,Sim,0x0,0x2,2.2,3.12,3.51
+Brazil,Serie A,2024,01/06/2024,22:30,18:30,Cuiaba,Internacional,0,1,Andrerson Ribeiro Goncalves,12,21,4,4,0,0,-,-,Não,-,-,3.67,2.97,2.21
+Brazil,Serie A,2024,01/06/2024,22:30,18:30,Fluminense,Juventude,1,1,Matheus Delgado Candançan,13,19,2,4,0,1,-,84',Sim,1x1,1x1,1.56,04.04,5.8
+Brazil,Serie A,2024,02/06/2024,01:00,21:00,Corinthians,Botafogo RJ,0,1,Anderson Daronco,7,16,2,4,0,0,-,-,Não,-,-,2.14,3.23,3.51
+Brazil,Serie A,2024,02/06/2024,20:00,16:00,Atletico-MG,Bahia,1,1,Bruno Arleu de Araujo,13,9,6,4,0,0,-,-,Não,-,-,1.77,3.63,4.49
+Brazil,Serie A,2024,02/06/2024,20:00,16:00,Criciuma,Palmeiras,1,2,Rafael Rodrigo Klein,17,9,7,3,0,0,-,-,Não,-,-,4.61,3.28,1.86
+Brazil,Serie A,2024,02/06/2024,20:00,16:00,Vasco,Flamengo RJ,1,6,Braulio Da Silva Machado,18,6,2,0,1,0,45'+4,-,Sim,1x3,1x6,4.89,3.75,1.69
+Brazil,Serie A,2024,02/06/2024,22:30,18:30,Fortaleza,Athletico-PR,1,0,Joao Vitor Gobi,12,17,3,4,0,0,-,-,Não,-,-,1.93,3.3,4.17
+Brazil,Serie A,2024,02/06/2024,22:30,18:30,Sao Paulo,Cruzeiro,2,0,Lucas Paulo Torezin,18,11,2,2,0,1,-,38',Sim,1x0,2x0,1.94,3.17,4.34
+Brazil,Serie A,2024,05/06/2024,23:00,19:00,Juventude,Atletico GO,1,0,Raphael Claus,13,12,3,4,1,0,90',-,Sim,1x0,1x0,2.37,2.93,3.36
+Brazil,Serie A,2024,06/06/2024,00:00,20:00,Cuiaba,Vitoria,0,0,Wilton Pereira Sampaio,19,14,3,4,0,0,-,-,Não,-,-,2.18,2.95,3.8
+Brazil,Serie A,2024,09/06/2024,20:00,16:00,Criciuma,Cuiaba,2,5,Bruno Arleu de Araujo,10,13,5,6,1,0,79',-,Sim,2x4,2x5,2.13,03.06,3.76
+Brazil,Serie A,2024,11/06/2024,23:00,19:00,Atletico GO,Corinthians,2,2,Paulo Cesar Zanovelli da Silva,12,13,3,5,0,1,-,34',Sim,0x1,2x2,2.59,03.02,2.91
+Brazil,Serie A,2024,11/06/2024,23:00,19:00,Juventude,Vitoria,1,1,Wagner do Nascimento Magalhaes,16,8,3,4,0,0,-,-,Não,-,-,1.97,3.14,4.25
+Brazil,Serie A,2024,12/06/2024,00:00,20:00,Botafogo RJ,Fluminense,1,0,Flavio Rodrigues De Souza,22,13,3,3,0,0,-,-,Não,-,-,1.96,3.29,04.06
+Brazil,Serie A,2024,12/06/2024,01:30,21:30,Bragantino,Atletico-MG,1,2,Rafael Rodrigo Klein,17,18,5,6,1,1,90',90'+10,Sim,1x2,1x2,2.29,3.12,3.27
+Brazil,Serie A,2024,13/06/2024,23:00,19:00,Cruzeiro,Cuiaba,2,1,Marcelo de Lima Henrique,9,12,3,2,0,0,-,-,Não,-,-,1.58,3.65,6.56
+Brazil,Serie A,2024,14/06/2024,00:00,20:00,Athletico-PR,Criciuma,3,1,Jonathan Berkenstein Pinheiro,9,12,0,1,0,0,-,-,Não,-,-,1.47,4.23,6.85
+Brazil,Serie A,2024,14/06/2024,00:00,20:00,Flamengo RJ,Gremio,2,1,Luiz Flavio de Oliveira,9,10,2,4,0,0,-,-,Não,-,-,1.56,3.93,6.11
+Brazil,Serie A,2024,14/06/2024,00:00,20:00,Internacional,Sao Paulo,0,0,Braulio Da Silva Machado,15,18,5,4,0,0,-,-,Não,-,-,2.38,2.99,3.28
+Brazil,Serie A,2024,14/06/2024,01:30,21:30,Bahia,Fortaleza,1,0,Felipe Fernandes de Lima,14,9,6,1,0,0,-,-,Não,-,-,1.85,3.58,4.17
+Brazil,Serie A,2024,14/06/2024,01:30,21:30,Palmeiras,Vasco,2,0,Ramon Abatti Abel,10,14,1,2,0,0,-,-,Não,-,-,1.44,4.29,7.39
+Brazil,Serie A,2024,15/06/2024,22:30,18:30,Bragantino,Juventude,2,1,Emerson Ricardo de Almeida Andrade,12,12,4,4,1,0,12',-,Sim,1x0,2x1,1.59,3.83,5.87
+Brazil,Serie A,2024,16/06/2024,01:00,21:00,Fluminense,Atletico GO,1,2,Gustavo Ervino Bauermann,10,12,4,1,0,0,-,-,Não,-,-,1.87,3.41,4.31
+Brazil,Serie A,2024,16/06/2024,20:00,16:00,Athletico-PR,Flamengo RJ,1,1,Anderson Daronco,11,11,4,3,0,0,-,-,Não,-,-,2.58,3.11,2.84
+Brazil,Serie A,2024,16/06/2024,20:00,16:00,Corinthians,Sao Paulo,2,2,Ramon Abatti Abel,15,10,4,5,1,0,77',-,Sim,2x2,2x2,3.34,03.02,2.34
+Brazil,Serie A,2024,16/06/2024,20:00,16:00,Vitoria,Internacional,2,1,Bruno Arleu de Araujo,6,16,1,5,0,0,-,-,Não,-,-,2.7,2.84,2.96
+Brazil,Serie A,2024,16/06/2024,22:30,18:30,Criciuma,Bahia,2,2,Flavio Rodrigues De Souza,14,13,4,1,1,0,62',-,Sim,2x1,2x2,3.49,3.18,2.18
+Brazil,Serie A,2024,16/06/2024,22:30,18:30,Cuiaba,Fortaleza,5,0,Jefferson Ferreira de Moraes,9,6,1,3,0,2,-,45'+1 e 45'+3,Sim,3x0,5x0,3.18,2.87,2.53
+Brazil,Serie A,2024,16/06/2024,22:30,18:30,Gremio,Botafogo RJ,1,2,Paulo Cesar Zanovelli da Silva,12,11,3,3,0,0,-,-,Não,-,-,3.48,3.15,2.19
+Brazil,Serie A,2024,16/06/2024,22:30,18:30,Vasco,Cruzeiro,0,0,Rafael Rodrigo Klein,11,11,2,4,0,0,-,-,Não,-,-,2.78,03.07,2.67
+Brazil,Serie A,2024,18/06/2024,00:30,20:30,Atletico-MG,Palmeiras,0,4,Rodrigo Jose Pereira de Lima,16,16,5,3,2,0,31' e 90'+8,-,Sim,0x1,0x4,2.63,03.07,2.81
+Brazil,Serie A,2024,19/06/2024,23:00,19:00,Atletico GO,Criciuma,1,2,Alex Gomes Stefano,10,11,1,1,1,0,90'+9,-,Sim,1x2,1x2,1.67,3.71,5.22
+Brazil,Serie A,2024,19/06/2024,23:00,19:00,Botafogo RJ,Athletico-PR,1,1,Ramon Abatti Abel,13,14,0,5,0,0,-,-,Não,-,-,1.98,3.26,04.04
+Brazil,Serie A,2024,20/06/2024,00:00,20:00,Fortaleza,Gremio,1,0,Joao Vitor Gobi,15,7,3,4,0,1,-,44',Sim,1x0,1x0,1.89,3.39,4.28
+Brazil,Serie A,2024,20/06/2024,00:00,20:00,Juventude,Vasco,2,0,Paulo Cesar Zanovelli da Silva,13,18,2,3,0,1,-,90'+6,Sim,1x0,2x0,2.14,03.06,3.78
+Brazil,Serie A,2024,20/06/2024,00:00,20:00,Sao Paulo,Cuiaba,0,1,Gustavo Ervino Bauermann,5,16,2,3,0,0,-,-,Não,-,-,1.53,3.77,7.1
+Brazil,Serie A,2024,20/06/2024,01:30,21:30,Cruzeiro,Fluminense,2,0,Matheus Delgado Candançan,16,11,3,2,0,0,-,-,Não,-,-,1.75,3.57,4.78
+Brazil,Serie A,2024,20/06/2024,01:30,21:30,Internacional,Corinthians,1,0,Wagner do Nascimento Magalhaes,17,13,1,2,0,0,-,-,Não,-,-,2.2,03.09,3.54
+Brazil,Serie A,2024,20/06/2024,22:30,18:30,Vitoria,Atletico-MG,4,2,Marcelo de Lima Henrique,15,13,2,2,0,0,-,-,Não,-,-,2.91,2.9,2.7
+Brazil,Serie A,2024,21/06/2024,00:00,20:00,Flamengo RJ,Bahia,2,1,Braulio Da Silva Machado,8,10,1,1,0,0,-,-,Não,-,-,1.6,3.96,5.38
+Brazil,Serie A,2024,21/06/2024,01:30,21:30,Palmeiras,Bragantino,2,1,Anderson Daronco,10,9,0,2,0,0,-,-,Não,-,-,1.71,3.67,4.9
+Brazil,Serie A,2024,22/06/2024,20:00,16:00,Criciuma,Botafogo RJ,2,1,Luiz Flavio de Oliveira,16,14,4,3,0,0,-,-,Não,-,-,3,3.21,2.4
+Brazil,Serie A,2024,22/06/2024,21:30,17:30,Gremio,Internacional,0,1,Ramon Abatti Abel,12,11,3,2,0,0,-,-,Não,-,-,03.03,2.97,2.55
+Brazil,Serie A,2024,22/06/2024,22:30,18:30,Cuiaba,Atletico GO,0,0,Bruno Pereira Vasconcelos,9,12,3,1,0,0,-,-,Não,-,-,02.05,3.15,3.91
+Brazil,Serie A,2024,23/06/2024,01:30,21:30,Vasco,Sao Paulo,4,1,Caio Max Augusto Vieira,13,14,3,1,0,0,-,-,Não,-,-,3.33,3.12,2.28
+Brazil,Serie A,2024,23/06/2024,20:00,16:00,Athletico-PR,Corinthians,1,1,Felipe Fernandes de Lima,19,12,2,1,0,0,-,-,Não,-,-,1.64,3.89,5.2
+Brazil,Serie A,2024,23/06/2024,20:00,16:00,Bahia,Cruzeiro,4,1,Paulo Belence Alves Dos Prazeres Filho,6,13,0,3,0,1,-,70',Sim,1x1,3x1,02.05,3.26,3.76
+Brazil,Serie A,2024,23/06/2024,20:00,16:00,Fluminense,Flamengo RJ,0,1,Rafael Rodrigo Klein,16,13,4,3,1,0,88',-,Sim,0x1,0x1,4.44,3.7,1.77
+Brazil,Serie A,2024,23/06/2024,22:30,18:30,Atletico-MG,Fortaleza,1,1,Flavio Rodrigues De Souza,15,17,3,2,0,0,-,-,Não,-,-,1.74,3.51,4.97
+Brazil,Serie A,2024,23/06/2024,22:30,18:30,Bragantino,Vitoria,2,1,Jonathan Berkenstein Pinheiro,10,11,3,2,0,0,-,-,Não,-,-,1.51,04.04,6.48
+Brazil,Serie A,2024,23/06/2024,22:30,18:30,Palmeiras,Juventude,3,1,Davi de Oliveira Lacerda,14,7,2,3,0,0,-,-,Não,-,-,1.39,4.49,8.17
+Brazil,Serie A,2024,26/06/2024,23:00,19:00,Botafogo RJ,Bragantino,2,1,Gustavo Ervino Bauermann,13,12,2,3,0,0,-,-,Não,-,-,1.95,3.4,3.93
+Brazil,Serie A,2024,26/06/2024,23:00,19:00,Cruzeiro,Athletico-PR,2,0,Davi de Oliveira Lacerda,8,6,2,2,0,0,-,-,Não,-,-,2.14,3.1,3.7
+Brazil,Serie A,2024,27/06/2024,00:00,20:00,Atletico GO,Gremio,1,1,Bruno Arleu de Araujo,13,11,7,4,0,0,-,-,Não,-,-,2.19,3.15,3.48
+Brazil,Serie A,2024,27/06/2024,00:00,20:00,Corinthians,Cuiaba,1,1,Fabio Augusto Santos Sa Junior,10,13,3,4,0,0,-,-,Não,-,-,2,3.19,04.08
+Brazil,Serie A,2024,27/06/2024,00:00,20:00,Juventude,Flamengo RJ,2,1,Matheus Delgado Candançan,9,10,2,1,0,0,-,-,Não,-,-,4.55,3.31,1.86
+Brazil,Serie A,2024,27/06/2024,01:30,21:30,Bahia,Vasco,2,1,Joao Vitor Gobi,14,15,0,5,0,1,-,59',Sim,1x1,2x1,1.59,3.93,5.59
+Brazil,Serie A,2024,27/06/2024,01:30,21:30,Fortaleza,Palmeiras,3,0,Alex Gomes Stefano,17,11,2,2,0,0,-,-,Não,-,-,3.1,03.09,2.41
+Brazil,Serie A,2024,27/06/2024,01:30,21:30,Internacional,Atletico-MG,1,2,Luiz Flavio de Oliveira,17,10,4,4,0,0,-,-,Não,-,-,2.13,03.05,3.8
+Brazil,Serie A,2024,27/06/2024,23:00,19:00,Fluminense,Vitoria,0,1,Flavio Rodrigues De Souza,14,12,3,1,0,0,-,-,Não,-,-,1.86,3.47,4.26
+Brazil,Serie A,2024,28/06/2024,00:00,20:00,Sao Paulo,Criciuma,2,1,Bruno Pereira Vasconcelos,10,22,2,4,0,0,-,-,Não,-,-,1.53,04.05,6.14
+Brazil,Serie A,2024,29/06/2024,22:30,18:30,Cuiaba,Bragantino,1,1,Felipe Fernandes de Lima,13,16,4,2,1,0,90'+7,-,Sim,1x1,1x1,2.69,03.05,2.77
+Brazil,Serie A,2024,29/06/2024,22:30,18:30,Vasco,Botafogo RJ,1,1,Ramon Abatti Abel,13,23,4,5,0,0,-,-,Não,-,-,03.01,03.09,2.47
+Brazil,Serie A,2024,30/06/2024,15:00,11:00,Atletico-MG,Atletico GO,1,1,Jonathan Berkenstein Pinheiro,10,11,0,1,0,0,-,-,Não,-,-,02.01,3.38,3.73
+Brazil,Serie A,2024,30/06/2024,20:00,16:00,Fortaleza,Juventude,2,1,Rodrigo Jose Pereira de Lima,22,16,2,0,0,0,-,-,Não,-,-,1.63,3.66,5.78
+Brazil,Serie A,2024,30/06/2024,20:00,16:00,Gremio,Fluminense,1,0,Paulo Cesar Zanovelli da Silva,13,14,2,3,0,1,-,87',Sim,1x0,1x0,1.91,3.33,4.26
+Brazil,Serie A,2024,30/06/2024,20:00,16:00,Sao Paulo,Bahia,3,1,Marcelo de Lima Henrique,15,9,4,1,0,0,-,-,Não,-,-,1.96,3.36,3.96
+Brazil,Serie A,2024,30/06/2024,22:30,18:30,Criciuma,Internacional,1,1,Wagner do Nascimento Magalhaes,10,14,2,3,0,0,-,-,Não,-,-,2.79,2.96,2.74
+Brazil,Serie A,2024,30/06/2024,22:30,18:30,Flamengo RJ,Cruzeiro,2,1,Braulio Da Silva Machado,5,17,1,3,0,0,-,-,Não,-,-,1.64,3.89,5.28
+Brazil,Serie A,2024,30/06/2024,22:30,18:30,Vitoria,Athletico-PR,0,1,Bruno Arleu de Araujo,12,16,3,2,0,0,-,-,Não,-,-,2.29,3.16,3.25
+Brazil,Serie A,2024,02/07/2024,00:00,20:00,Palmeiras,Corinthians,2,0,Anderson Daronco,18,10,3,4,1,0,63',-,Sim,2x0,2x0,1.58,04.02,5.59
+Brazil,Serie A,2024,03/07/2024,23:00,19:00,Cuiaba,Botafogo RJ,1,2,Paulo Cesar Zanovelli da Silva,8,15,4,1,0,0,-,-,Não,-,-,2.54,2.99,03.03
+Brazil,Serie A,2024,04/07/2024,00:00,20:00,Criciuma,Cruzeiro,1,0,Joao Vitor Gobi,11,7,4,2,1,0,90'+2,-,Sim,1x0,1x0,2.47,2.98,3.11
+Brazil,Serie A,2024,04/07/2024,00:00,20:00,Vasco,Fortaleza,2,0,Matheus Delgado Candançan,21,12,4,3,0,1,-,39',Sim,0x0,2x0,2.27,3.19,3.25
+Brazil,Serie A,2024,04/07/2024,01:30,21:30,Athletico-PR,Sao Paulo,1,2,Alex Gomes Stefano,19,8,1,3,1,0,76',-,Sim,1x2,1x2,2.32,3.1,3.26
+Brazil,Serie A,2024,04/07/2024,01:30,21:30,Atletico-MG,Flamengo RJ,2,4,Ramon Abatti Abel,12,11,4,2,1,0,63',-,Sim,1x3,2x4,2.74,03.08,2.69
+Brazil,Serie A,2024,04/07/2024,01:30,21:30,Bragantino,Atletico GO,3,1,Davi de Oliveira Lacerda,15,9,2,3,0,0,-,-,Não,-,-,1.82,3.42,4.52
+Brazil,Serie A,2024,04/07/2024,23:00,19:00,Bahia,Juventude,2,0,Wagner do Nascimento Magalhaes,15,9,0,4,0,0,-,-,Não,-,-,1.51,4.22,6.18
+Brazil,Serie A,2024,04/07/2024,23:00,19:00,Gremio,Palmeiras,2,2,Marcelo de Lima Henrique,9,13,2,3,0,0,-,-,Não,-,-,3.1,3.2,2.35
+Brazil,Serie A,2024,05/07/2024,00:00,20:00,Corinthians,Vitoria,3,2,Gustavo Ervino Bauermann,15,10,4,3,0,0,-,-,Não,-,-,1.83,3.3,4.74
+Brazil,Serie A,2024,05/07/2024,00:00,20:00,Fluminense,Internacional,1,1,Felipe Fernandes de Lima,17,17,6,5,0,0,-,-,Não,-,-,2.72,3,2.77
+Brazil,Serie A,2024,07/07/2024,00:00,20:00,Flamengo RJ,Cuiaba,1,1,Rodrigo Jose Pereira de Lima,14,12,1,3,0,0,-,-,Não,-,-,1.41,4.29,8.12
+Brazil,Serie A,2024,07/07/2024,00:00,20:00,Sao Paulo,Bragantino,2,0,Bruno Pereira Vasconcelos,10,9,2,2,0,0,-,-,Não,-,-,1.95,3.27,04.08
+Brazil,Serie A,2024,07/07/2024,20:00,16:00,Cruzeiro,Corinthians,3,0,Alex Gomes Stefano,22,12,2,1,0,0,-,-,Não,-,-,1.79,3.54,4.53
+Brazil,Serie A,2024,07/07/2024,20:00,16:00,Fortaleza,Fluminense,1,0,Davi de Oliveira Lacerda,13,14,1,2,0,0,-,-,Não,-,-,1.72,3.55,05.05
+Brazil,Serie A,2024,07/07/2024,20:00,16:00,Juventude,Gremio,3,0,Matheus Delgado Candançan,14,10,1,3,0,0,-,-,Não,-,-,2.59,3.14,2.81
+Brazil,Serie A,2024,07/07/2024,22:00,18:00,Internacional,Vasco,1,2,Gustavo Ervino Bauermann,16,12,2,2,0,0,-,-,Não,-,-,1.67,3.57,5.54
+Brazil,Serie A,2024,07/07/2024,22:30,18:30,Atletico GO,Athletico-PR,1,2,Joao Vitor Gobi,11,11,1,3,1,0,74',-,Sim,1x1,1x2,1.94,3.36,04.02
+Brazil,Serie A,2024,07/07/2024,22:30,18:30,Palmeiras,Bahia,2,0,Jonathan Berkenstein Pinheiro,15,10,1,1,0,0,-,-,Não,-,-,1.66,04.07,4.72
+Brazil,Serie A,2024,07/07/2024,22:30,18:30,Vitoria,Criciuma,2,1,Bruno Mota Correia,12,18,1,2,0,0,-,-,Não,-,-,2.17,3.15,3.55
+Brazil,Serie A,2024,08/07/2024,00:30,20:30,Botafogo RJ,Atletico-MG,3,0,Rafael Rodrigo Klein,19,12,2,1,0,0,-,-,Não,-,-,1.96,3.4,3.88
+Brazil,Serie A,2024,10/07/2024,22:30,18:30,Gremio,Cruzeiro,0,2,Bruno Arleu de Araujo,9,10,1,1,1,0,57',-,Sim,0x2,0x2,2.52,3.18,2.88
+Brazil,Serie A,2024,10/07/2024,23:00,19:00,Athletico-PR,Bahia,1,3,Felipe Fernandes de Lima,13,13,2,4,0,0,-,-,Não,-,-,2.29,3.31,3.16
+Brazil,Serie A,2024,10/07/2024,23:00,19:00,Vasco,Corinthians,2,0,Rafael Rodrigo Klein,15,10,3,5,0,0,-,-,Não,-,-,2.28,3.13,3.35
+Brazil,Serie A,2024,11/07/2024,23:30,19:30,Palmeiras,Atletico GO,3,1,Wagner do Nascimento Magalhaes,9,19,2,2,0,0,-,-,Não,-,-,1.37,4.77,8.59
+Brazil,Serie A,2024,12/07/2024,00:00,20:00,Criciuma,Fluminense,1,1,Anderson Daronco,15,7,2,1,0,0,-,-,Não,-,-,2,3.28,3.98
+Brazil,Serie A,2024,12/07/2024,00:00,20:00,Flamengo RJ,Fortaleza,1,2,Edina Alves Batista,9,11,1,1,0,0,-,-,Não,-,-,1.6,3.8,5.89
+Brazil,Serie A,2024,12/07/2024,01:30,21:30,Atletico-MG,Sao Paulo,2,1,Marcelo de Lima Henrique,9,13,2,1,0,1,-,59',Sim,2x1,2x1,2.48,03.07,03.06
+Brazil,Serie A,2024,12/07/2024,01:30,21:30,Vitoria,Botafogo RJ,0,1,Ramon Abatti Abel,16,24,2,3,0,0,-,-,Não,-,-,03.09,3,2.51
+Brazil,Serie A,2024,13/07/2024,20:00,16:00,Bahia,Cuiaba,1,2,Davi de Oliveira Lacerda,4,8,2,3,0,0,-,-,Não,-,-,1.65,3.59,5.71
+Brazil,Serie A,2024,13/07/2024,20:00,16:00,Cruzeiro,Bragantino,2,1,Savio Pereira Sampaio,11,14,2,2,0,0,-,-,Não,-,-,02.08,3.32,3.62
+Brazil,Serie A,2024,16/07/2024,23:00,19:00,Juventude,Atletico-MG,1,1,Alex Gomes Stefano,8,12,2,1,0,0,-,-,Não,-,-,3.98,3.48,1.93
+Brazil,Serie A,2024,17/07/2024,01:00,21:00,Corinthians,Criciuma,2,1,Jonathan Berkenstein Pinheiro,10,17,1,0,0,0,-,-,Não,-,-,1.78,3.54,4.68
+Brazil,Serie A,2024,17/07/2024,23:00,19:00,Atletico GO,Vasco,0,1,Matheus Delgado Candançan,13,11,2,3,0,0,-,-,Não,-,-,2.22,3.2,3.38
+Brazil,Serie A,2024,18/07/2024,00:00,20:00,Sao Paulo,Gremio,1,0,Gustavo Ervino Bauermann,10,17,1,0,1,0,90'+9,-,Sim,1x0,1x0,1.56,3.78,6.54
+Brazil,Serie A,2024,18/07/2024,01:30,21:30,Botafogo RJ,Palmeiras,1,0,Anderson Daronco,20,10,2,0,0,0,-,-,Não,-,-,2.79,3.23,2.56
+Brazil,Serie A,2024,18/07/2024,01:30,21:30,Fortaleza,Vitoria,3,1,Rafael Rodrigo Klein,19,19,4,3,0,0,-,-,Não,-,-,1.62,3.75,5.66
+Brazil,Serie A,2024,20/07/2024,20:00,16:00,Flamengo RJ,Criciuma,2,1,Maguielson Lima Barbosa,12,21,4,9,0,0,-,-,Não,-,-,1.4,4.58,7.9
+Brazil,Serie A,2024,20/07/2024,22:30,18:30,Botafogo RJ,Internacional,1,0,Flavio Rodrigues De Souza,16,14,4,2,0,0,-,-,Não,-,-,1.91,3.26,4.43
+Brazil,Serie A,2024,21/07/2024,01:00,21:00,Palmeiras,Cruzeiro,2,0,Davi de Oliveira Lacerda,16,16,4,4,0,0,-,-,Não,-,-,1.71,3.69,4.93
+Brazil,Serie A,2024,21/07/2024,15:00,11:00,Gremio,Vitoria,2,0,Savio Pereira Sampaio,11,20,1,7,0,0,-,-,Não,-,-,1.79,3.4,4.9
+Brazil,Serie A,2024,21/07/2024,20:00,16:00,Atletico-MG,Vasco,2,0,Raphael Claus,13,6,1,1,0,0,-,-,Não,-,-,1.7,3.77,4.92
+Brazil,Serie A,2024,21/07/2024,20:00,16:00,Bahia,Corinthians,0,1,Felipe Fernandes de Lima,15,17,4,4,0,0,-,-,Não,-,-,1.68,3.79,05.07
+Brazil,Serie A,2024,21/07/2024,22:30,18:30,Bragantino,Athletico-PR,1,0,Denis da Silva Ribeiro Serafim,6,14,2,7,0,0,-,-,Não,-,-,1.97,3.38,3.92
+Brazil,Serie A,2024,21/07/2024,22:30,18:30,Fortaleza,Atletico GO,3,1,Lucas Paulo Torezin,12,12,5,3,1,1,55',45'+2,Sim,1x1,3x1,1.72,3.61,05.03
+Brazil,Serie A,2024,21/07/2024,22:30,18:30,Juventude,Sao Paulo,0,0,Wilton Pereira Sampaio,13,17,4,2,0,0,-,-,Não,-,-,3.64,3.25,2.1
+Brazil,Serie A,2024,22/07/2024,00:00,20:00,Cuiaba,Fluminense,0,1,Anderson Daronco,19,6,1,2,0,0,-,-,Não,-,-,2.52,2.96,3.11
+Brazil,Serie A,2024,24/07/2024,23:00,19:00,Criciuma,Fortaleza,1,1,Jonathan Berkenstein Pinheiro,11,8,0,1,0,0,-,-,Não,-,-,2.67,3.1,2.76
+Brazil,Serie A,2024,24/07/2024,23:00,19:00,Cruzeiro,Juventude,2,0,Maguielson Lima Barbosa,14,14,3,5,0,1,-,90'+6,Sim,2x0,2x0,1.46,4.23,7.31
+Brazil,Serie A,2024,24/07/2024,23:30,19:30,Sao Paulo,Botafogo RJ,2,2,Felipe Fernandes de Lima,17,22,4,3,0,0,-,-,Não,-,-,2.23,2.96,3.68
+Brazil,Serie A,2024,25/07/2024,00:00,20:00,Vitoria,Flamengo RJ,1,2,Raphael Claus,9,15,1,1,0,0,-,-,Não,-,-,4.97,3.65,1.72
+Brazil,Serie A,2024,25/07/2024,01:30,21:30,Atletico GO,Bahia,1,1,Luciano da Silva Miranda Filho,18,12,5,4,2,0,90'+8 e 90'+11,-,Sim,1x0,1x1,03.03,3.21,2.4
+Brazil,Serie A,2024,25/07/2024,01:30,21:30,Fluminense,Palmeiras,1,0,Wilton Pereira Sampaio,14,19,2,3,0,0,-,-,Não,-,-,03.08,3.17,2.41
+Brazil,Serie A,2024,26/07/2024,00:00,20:00,Corinthians,Gremio,2,2,Alex Gomes Stefano,21,17,1,2,0,0,-,-,Não,-,-,1.99,3.21,4.11
+Brazil,Serie A,2024,27/07/2024,23:00,19:00,Juventude,Criciuma,1,2,Joao Vitor Gobi,13,18,1,2,0,0,-,-,Não,-,-,2.27,3.1,3.41
+Brazil,Serie A,2024,27/07/2024,23:00,19:00,Palmeiras,Vitoria,0,2,Caio Max Augusto Vieira,14,9,2,6,0,1,-,90'+2,Sim,0x2,0x2,1.46,4.42,6.93
+Brazil,Serie A,2024,28/07/2024,00:00,20:00,Bahia,Internacional,1,1,Matheus Delgado Candançan,12,18,1,3,0,0,-,-,Não,-,-,1.99,3.34,3.93
+Brazil,Serie A,2024,28/07/2024,01:30,21:30,Botafogo RJ,Cruzeiro,0,3,Wilton Pereira Sampaio,14,15,2,4,0,0,-,-,Não,-,-,2.1,3.26,3.65
+Brazil,Serie A,2024,28/07/2024,01:30,21:30,Fortaleza,Sao Paulo,1,0,Davi de Oliveira Lacerda,15,16,3,4,0,0,-,-,Não,-,-,2.3,2.89,3.63
+Brazil,Serie A,2024,28/07/2024,15:00,11:00,Bragantino,Fluminense,0,1,Lucas Paulo Torezin,12,13,1,2,0,0,-,-,Não,-,-,2.35,3.16,3.17
+Brazil,Serie A,2024,28/07/2024,20:00,16:00,Flamengo RJ,Atletico GO,2,0,Gustavo Ervino Bauermann,9,12,3,2,0,0,-,-,Não,-,-,1.29,5.45,10.47
+Brazil,Serie A,2024,28/07/2024,23:00,19:00,Atletico-MG,Corinthians,2,1,Bruno Arleu de Araujo,17,16,3,3,1,0,90'+7,-,Sim,2x1,2x1,1.69,3.56,5.37
+Brazil,Serie A,2024,28/07/2024,23:00,19:00,Cuiaba,Athletico-PR,1,2,Jefferson Ferreira de Moraes,8,12,0,2,0,0,-,-,Não,-,-,2.37,03.07,3.24
+Brazil,Serie A,2024,28/07/2024,23:00,19:00,Gremio,Vasco,1,0,Paulo Cesar Zanovelli da Silva,13,13,3,4,0,0,-,-,Não,-,-,02.04,3.26,3.83
+Brazil,Serie A,2024,03/08/2024,20:00,16:00,Vitoria,Cuiaba,1,0,Joao Vitor Gobi,16,17,3,3,0,0,-,-,Não,-,-,2.85,2.9,2.78
+Brazil,Serie A,2024,03/08/2024,23:00,19:00,Vasco,Bragantino,2,2,Gustavo Ervino Bauermann,8,18,4,1,0,0,-,-,Não,-,-,1.93,3.84,3.63
+Brazil,Serie A,2024,04/08/2024,00:00,20:00,Atletico GO,Botafogo RJ,1,4,Felipe Fernandes de Lima,17,14,3,3,1,1,90'+3,90'+3,Sim,1x4,1x4,2.94,3.12,2.53
+Brazil,Serie A,2024,04/08/2024,00:00,20:00,Criciuma,Atletico-MG,2,1,Jonathan Berkenstein Pinheiro,14,7,1,2,0,0,-,-,Não,-,-,3.97,3.4,1.96
+Brazil,Serie A,2024,04/08/2024,01:30,21:30,Sao Paulo,Flamengo RJ,1,0,Rafael Rodrigo Klein,11,13,1,3,0,0,-,-,Não,-,-,2.21,03.01,3.71
+Brazil,Serie A,2024,04/08/2024,20:00,16:00,Athletico-PR,Gremio,0,2,Matheus Delgado Candançan,12,12,2,0,0,0,-,-,Não,-,-,1.65,3.85,5.24
+Brazil,Serie A,2024,04/08/2024,20:00,16:00,Corinthians,Juventude,1,1,Lucas Paulo Torezin,16,15,2,7,0,2,-,45'+2 e 57',Sim,0x1,1x1,1.65,3.68,5.64
+Brazil,Serie A,2024,04/08/2024,20:00,16:00,Fluminense,Bahia,1,0,Davi de Oliveira Lacerda,12,10,3,2,0,0,-,-,Não,-,-,02.08,3.27,3.72
+Brazil,Serie A,2024,04/08/2024,21:00,17:00,Internacional,Palmeiras,1,1,Wagner do Nascimento Magalhaes,19,6,2,0,0,0,-,-,Não,-,-,2.34,3.18,3.17
+Brazil,Serie A,2024,06/08/2024,01:00,21:00,Cruzeiro,Fortaleza,1,2,Alex Gomes Stefano,18,17,4,4,0,0,-,-,Não,-,-,1.87,3.39,4.38
+Brazil,Serie A,2024,10/08/2024,20:00,16:00,Fortaleza,Criciuma,1,0,Kleber Ariel Goncalves da Silva,16,13,2,4,0,0,-,-,Não,-,-,1.79,3.39,4.91
+Brazil,Serie A,2024,10/08/2024,23:00,19:00,Cuiaba,Gremio,1,3,Bruno Pereira Vasconcelos,15,7,1,2,0,0,-,-,Não,-,-,2.53,2.96,03.09
+Brazil,Serie A,2024,11/08/2024,01:30,21:30,Corinthians,Bragantino,1,1,Felipe Fernandes de Lima,11,18,4,6,0,0,-,-,Não,-,-,2.16,03.06,3.75
+Brazil,Serie A,2024,11/08/2024,01:30,21:30,Cruzeiro,Atletico-MG,0,0,Raphael Claus,19,12,3,1,0,0,-,-,Não,-,-,2.31,3,3.44
+Brazil,Serie A,2024,11/08/2024,01:30,21:30,Vasco,Fluminense,2,0,Anderson Daronco,23,12,3,3,0,0,-,-,Não,-,-,2.68,2.99,2.86
+Brazil,Serie A,2024,11/08/2024,15:00,11:00,Juventude,Botafogo RJ,3,2,Flavio Rodrigues De Souza,10,14,3,5,0,0,-,-,Não,-,-,3.78,3.34,02.02
+Brazil,Serie A,2024,11/08/2024,20:00,16:00,Bahia,Vitoria,2,0,Braulio Da Silva Machado,10,12,3,4,0,0,-,-,Não,-,-,1.64,3.63,5.75
+Brazil,Serie A,2024,11/08/2024,20:00,16:00,Flamengo RJ,Palmeiras,1,1,Wilton Pereira Sampaio,15,21,1,4,0,1,-,90'+3,Sim,1x1,1x1,1.73,3.56,05.04
+Brazil,Serie A,2024,11/08/2024,20:00,16:00,Sao Paulo,Atletico GO,1,0,Davi de Oliveira Lacerda,15,8,1,2,0,0,-,-,Não,-,-,1.89,3.31,4.44
+Brazil,Serie A,2024,11/08/2024,23:00,19:00,Internacional,Athletico-PR,2,2,Paulo Cesar Zanovelli da Silva,18,13,1,2,0,0,-,-,Não,-,-,1.92,3.26,4.32
+Brazil,Serie A,2024,14/08/2024,23:30,19:30,Internacional,Juventude,2,1,Gustavo Ervino Bauermann,19,17,2,4,0,0,-,-,Não,-,-,1.57,4.16,5.59
+Brazil,Serie A,2024,17/08/2024,20:00,16:00,Atletico-MG,Cuiaba,1,1,Davi de Oliveira Lacerda,13,14,3,6,0,0,-,-,Não,-,-,1.85,3.21,4.93
+Brazil,Serie A,2024,17/08/2024,20:00,16:00,Gremio,Bahia,0,2,Matheus Delgado Candançan,10,10,3,1,0,0,-,-,Não,-,-,2.71,3.18,2.69
+Brazil,Serie A,2024,17/08/2024,22:30,18:30,Bragantino,Fortaleza,1,2,Alex Gomes Stefano,19,13,4,4,0,0,-,-,Não,-,-,2.55,3.17,2.87
+Brazil,Serie A,2024,18/08/2024,01:00,21:00,Fluminense,Corinthians,0,0,Braulio Da Silva Machado,10,17,2,2,0,0,-,-,Não,-,-,2.53,2.88,3.17
+Brazil,Serie A,2024,18/08/2024,20:00,16:00,Atletico GO,Internacional,1,0,Flavio Rodrigues De Souza,11,6,3,0,0,0,-,-,Não,-,-,3,3.1,2.49
+Brazil,Serie A,2024,18/08/2024,20:00,16:00,Criciuma,Vasco,2,2,Paulo Cesar Zanovelli da Silva,15,7,3,2,0,0,-,-,Não,-,-,02.06,3.25,3.77
+Brazil,Serie A,2024,18/08/2024,20:00,16:00,Palmeiras,Sao Paulo,2,1,Raphael Claus,17,12,4,3,0,1,-,90'+6,Sim,1x1,2x1,1.7,3.45,5.58
+Brazil,Serie A,2024,18/08/2024,22:30,18:30,Athletico-PR,Juventude,1,2,Joao Vitor Gobi,17,10,4,2,0,0,-,-,Não,-,-,1.68,3.92,4.87
+Brazil,Serie A,2024,18/08/2024,22:30,18:30,Botafogo RJ,Flamengo RJ,4,1,Bruno Arleu de Araujo,17,7,4,2,0,0,-,-,Não,-,-,2.38,3.11,3.19
+Brazil,Serie A,2024,20/08/2024,00:00,20:00,Vitoria,Cruzeiro,2,2,Vinicius Melo de Lima,10,13,1,3,1,0,38',-,Sim,2x0,2x2,2.79,2.9,2.82
+Brazil,Serie A,2024,24/08/2024,20:00,16:00,Atletico GO,Juventude,2,1,Bruno Pereira Vasconcelos,17,10,5,6,1,1,80',90'+6,Sim,1x0,2x1,1.82,3.49,4.54
+Brazil,Serie A,2024,24/08/2024,22:30,18:30,Palmeiras,Cuiaba,5,0,Alex Gomes Stefano,16,6,1,1,0,0,-,-,Não,-,-,1.44,4.31,7.7
+Brazil,Serie A,2024,25/08/2024,01:00,21:00,Atletico-MG,Fluminense,0,2,Flavio Rodrigues De Souza,19,7,5,3,0,0,-,-,Não,-,-,1.92,3.16,4.55
+Brazil,Serie A,2024,25/08/2024,20:00,16:00,Bahia,Botafogo RJ,0,0,Ramon Abatti Abel,19,21,4,4,0,0,-,-,Não,-,-,2.22,3.4,3.21
+Brazil,Serie A,2024,25/08/2024,20:00,16:00,Criciuma,Gremio,0,1,Lucas Paulo Torezin,15,8,2,1,0,0,-,-,Não,-,-,2.75,3.21,2.64
+Brazil,Serie A,2024,25/08/2024,20:00,16:00,Fortaleza,Corinthians,1,0,Felipe Fernandes de Lima,14,16,3,3,0,0,-,-,Não,-,-,1.97,3.22,4.21
+Brazil,Serie A,2024,25/08/2024,22:30,18:30,Sao Paulo,Vitoria,2,1,Wilton Pereira Sampaio,7,8,0,2,0,0,-,-,Não,-,-,1.73,3.53,05.09
+Brazil,Serie A,2024,25/08/2024,23:00,19:00,Internacional,Cruzeiro,1,0,Matheus Delgado Candançan,12,9,3,2,0,0,-,-,Não,-,-,2,3.15,4.18
+Brazil,Serie A,2024,26/08/2024,00:00,20:00,Flamengo RJ,Bragantino,2,1,Gustavo Ervino Bauermann,13,12,1,1,0,0,-,-,Não,-,-,1.61,3.76,5.87
+Brazil,Serie A,2024,27/08/2024,01:00,21:00,Vasco,Athletico-PR,2,1,Jonathan Berkenstein Pinheiro,10,11,1,2,0,0,-,-,Não,-,-,2.18,3.23,3.48
+Brazil,Serie A,2024,28/08/2024,23:30,19:30,Criciuma,Bragantino,1,0,Andre Luiz Skettino Policarpo Bento,17,15,3,5,0,0,-,-,Não,-,-,2.38,3.19,3.12
+Brazil,Serie A,2024,28/08/2024,23:30,19:30,Cruzeiro,Internacional,0,0,Joao Vitor Gobi,12,13,2,7,0,1,-,32',Sim,0x0,0x0,2.26,3.13,3.4
+Brazil,Serie A,2024,31/08/2024,22:30,18:30,Cuiaba,Criciuma,2,1,Rodrigo Jose Pereira de Lima,16,9,4,0,0,0,-,-,Não,-,-,2,3.25,04.02
+Brazil,Serie A,2024,01/09/2024,01:00,21:00,Botafogo RJ,Fortaleza,2,0,Flavio Rodrigues De Souza,13,8,3,4,0,0,-,-,Não,-,-,1.59,3.97,5.71
+Brazil,Serie A,2024,01/09/2024,15:00,11:00,Cruzeiro,Atletico GO,3,1,Gustavo Ervino Bauermann,13,7,2,5,0,0,-,-,Não,-,-,1.64,3.58,06.05
+Brazil,Serie A,2024,01/09/2024,15:00,11:00,Gremio,Atletico-MG,2,3,Raphael Claus,11,17,2,3,1,0,20',-,Sim,0x0,2x3,2.17,03.01,3.8
+Brazil,Serie A,2024,01/09/2024,20:00,16:00,Corinthians,Flamengo RJ,2,1,Ramon Abatti Abel,18,18,5,4,2,1,90'+5 e 90'+11,90'+11,Sim,2x1,2x1,2.52,2.96,03.09
+Brazil,Serie A,2024,01/09/2024,22:30,18:30,Athletico-PR,Palmeiras,0,2,Braulio Da Silva Machado,10,9,2,1,0,0,-,-,Não,-,-,3.59,3.47,02.04
+Brazil,Serie A,2024,01/09/2024,22:30,18:30,Bragantino,Bahia,2,1,Davi de Oliveira Lacerda,8,13,2,3,0,0,-,-,Não,-,-,2.3,3.35,03.08
+Brazil,Serie A,2024,01/09/2024,22:30,18:30,Fluminense,Sao Paulo,2,0,Paulo Cesar Zanovelli da Silva,13,16,4,4,0,0,-,-,Não,-,-,2.36,2.88,3.5
+Brazil,Serie A,2024,01/09/2024,22:30,18:30,Juventude,Internacional,1,3,Marcelo de Lima Henrique,13,17,1,2,1,0,45',-,Sim,0x2,1x3,3.43,3.21,2.2
+Brazil,Serie A,2024,01/09/2024,22:30,18:30,Vitoria,Vasco,0,1,Luiz Flavio de Oliveira,7,7,3,3,0,0,-,-,Não,-,-,2.3,3.13,3.28
+Brazil,Serie A,2024,06/09/2024,00:00,20:00,Cuiaba,Juventude,0,0,Felipe Fernandes de Lima,17,11,3,1,0,0,-,-,Não,-,-,2.11,3.29,3.62
+Brazil,Serie A,2024,11/09/2024,23:00,19:00,Internacional,Fortaleza,2,1,Gustavo Ervino Bauermann,19,9,2,6,0,1,-,85',Sim,2x1,2x1,2,3.3,3.97
+Brazil,Serie A,2024,14/09/2024,20:00,16:00,Atletico GO,Vitoria,0,2,Edina Alves Batista,14,14,3,6,0,0,-,-,Não,-,-,1.96,3.3,04.09
+Brazil,Serie A,2024,14/09/2024,22:30,18:30,Athletico-PR,Fortaleza,1,1,Davi de Oliveira Lacerda,12,10,2,2,0,0,-,-,Não,-,-,1.9,3.58,3.99
+Brazil,Serie A,2024,15/09/2024,01:00,21:00,Botafogo RJ,Corinthians,2,1,Anderson Daronco,12,7,1,3,0,0,-,-,Não,-,-,1.59,3.86,5.89
+Brazil,Serie A,2024,15/09/2024,20:00,16:00,Bragantino,Gremio,2,2,Bruno Arleu de Araujo,12,7,5,1,0,0,-,-,Não,-,-,2.43,3.34,2.88
+Brazil,Serie A,2024,15/09/2024,20:00,16:00,Juventude,Fluminense,2,1,Flavio Rodrigues De Souza,8,9,5,4,0,0,-,-,Não,-,-,2.95,3.2,2.46
+Brazil,Serie A,2024,15/09/2024,20:00,16:00,Palmeiras,Criciuma,5,0,Alex Gomes Stefano,12,11,0,3,1,0,67',-,Sim,4x0,5x0,1.28,5.56,10.48
+Brazil,Serie A,2024,15/09/2024,22:30,18:30,Bahia,Atletico-MG,3,0,Rafael Rodrigo Klein,17,16,1,3,0,0,-,-,Não,-,-,1.93,3.46,3.99
+Brazil,Serie A,2024,15/09/2024,22:30,18:30,Cruzeiro,Sao Paulo,0,1,Wilton Pereira Sampaio,11,10,4,3,0,0,-,-,Não,-,-,1.84,3.22,4.94
+Brazil,Serie A,2024,15/09/2024,22:30,18:30,Flamengo RJ,Vasco,1,1,Raphael Claus,10,10,0,1,0,0,-,-,Não,-,-,1.71,3.64,5
+Brazil,Serie A,2024,17/09/2024,00:00,20:00,Internacional,Cuiaba,3,0,Braulio Da Silva Machado,8,10,1,2,0,0,-,-,Não,-,-,1.45,04.02,08.06
+Brazil,Serie A,2024,21/09/2024,20:00,16:00,Corinthians,Atletico GO,3,0,Bruno Arleu de Araujo,7,17,3,4,0,0,-,-,Não,-,-,1.58,3.83,6.13
+Brazil,Serie A,2024,21/09/2024,20:00,16:00,Vitoria,Juventude,1,0,Braulio Da Silva Machado,12,15,3,4,0,0,-,-,Não,-,-,02.01,3.25,3.97
+Brazil,Serie A,2024,21/09/2024,22:30,18:30,Fluminense,Botafogo RJ,0,1,Wilton Pereira Sampaio,13,17,1,1,0,0,-,-,Não,-,-,3.41,3.13,2.25
+Brazil,Serie A,2024,22/09/2024,01:00,21:00,Fortaleza,Bahia,4,1,Raphael Claus,13,9,2,1,1,0,83',-,Sim,3x1,4x1,2.59,3.2,2.79
+Brazil,Serie A,2024,22/09/2024,20:00,16:00,Atletico-MG,Bragantino,3,0,Lucas Paulo Torezin,14,9,2,3,0,0,-,-,Não,-,-,2.18,3.28,3.42
+Brazil,Serie A,2024,22/09/2024,20:00,16:00,Vasco,Palmeiras,0,1,Rafael Rodrigo Klein,8,14,1,3,0,0,-,-,Não,-,-,4.23,3.78,1.8
+Brazil,Serie A,2024,22/09/2024,22:30,18:30,Cuiaba,Cruzeiro,0,0,Flavio Rodrigues De Souza,10,10,0,1,0,1,-,82',Sim,0x0,0x0,2.8,2.87,2.84
+Brazil,Serie A,2024,22/09/2024,22:30,18:30,Gremio,Flamengo RJ,3,2,Matheus Delgado Candançan,6,13,1,0,0,1,-,58',Sim,2x1,3x2,1.81,3.57,4.4
+Brazil,Serie A,2024,22/09/2024,22:30,18:30,Sao Paulo,Internacional,1,3,Ramon Abatti Abel,18,16,5,1,0,0,-,-,Não,-,-,2.84,2.87,2.8
+Brazil,Serie A,2024,23/09/2024,00:00,20:00,Criciuma,Athletico-PR,0,0,Anderson Daronco,11,12,2,2,0,0,-,-,Não,-,-,2.22,3.31,3.28
+Brazil,Serie A,2024,25/09/2024,23:00,19:00,Bragantino,Internacional,2,2,Rodrigo Jose Pereira de Lima,13,13,3,2,0,0,-,-,Não,-,-,3.2,3.24,2.31
+Brazil,Serie A,2024,25/09/2024,23:00,19:00,Gremio,Criciuma,1,2,Davi de Oliveira Lacerda,8,12,2,5,0,0,-,-,Não,-,-,1.69,3.81,4.88
+Brazil,Serie A,2024,28/09/2024,22:30,18:30,Palmeiras,Atletico-MG,2,1,Bruno Arleu de Araujo,15,10,2,2,0,0,-,-,Não,-,-,1.7,3.65,5.14
+Brazil,Serie A,2024,29/09/2024,01:00,21:00,Botafogo RJ,Gremio,0,0,Maguielson Lima Barbosa,10,14,4,3,0,1,-,89',Sim,0x0,0x0,1.67,3.89,4.89
+Brazil,Serie A,2024,29/09/2024,15:00,11:00,Juventude,Bragantino,1,1,Alex Gomes Stefano,9,19,1,6,0,0,-,-,Não,-,-,2.58,3.15,2.83
+Brazil,Serie A,2024,29/09/2024,20:00,16:00,Atletico GO,Fluminense,1,0,Ramon Abatti Abel,15,14,1,2,0,0,-,-,Não,-,-,2.49,3.11,2.99
+Brazil,Serie A,2024,29/09/2024,20:00,16:00,Fortaleza,Cuiaba,1,0,Denis da Silva Ribeiro Serafim,18,9,2,4,0,0,-,-,Não,-,-,1.72,3.54,5.2
+Brazil,Serie A,2024,29/09/2024,20:00,16:00,Sao Paulo,Corinthians,3,1,Rafael Rodrigo Klein,18,17,6,6,0,2,-,45'+5 e 63',Sim,0x0,3x1,2.59,2.9,03.08
+Brazil,Serie A,2024,29/09/2024,22:30,18:30,Bahia,Criciuma,1,0,Edina Alves Batista,10,8,1,2,0,0,-,-,Não,-,-,1.61,04.02,5.26
+Brazil,Serie A,2024,29/09/2024,22:30,18:30,Cruzeiro,Vasco,1,1,Matheus Delgado Candançan,7,6,0,3,0,1,-,78',Sim,1x1,1x1,1.78,3.51,4.69
+Brazil,Serie A,2024,29/09/2024,22:30,18:30,Internacional,Vitoria,3,1,Wagner do Nascimento Magalhaes,26,8,3,1,0,0,-,-,Não,-,-,1.38,4.74,8.25
+Brazil,Serie A,2024,30/09/2024,00:00,20:00,Flamengo RJ,Athletico-PR,1,0,Davi de Oliveira Lacerda,12,13,2,2,0,0,-,-,Não,-,-,1.67,3.76,5.14
+Brazil,Serie A,2024,03/10/2024,23:00,19:00,Criciuma,Atletico GO,2,0,Joao Vitor Gobi,16,8,1,4,0,0,-,-,Não,-,-,1.85,3.57,4.26
+Brazil,Serie A,2024,04/10/2024,01:30,21:30,Fluminense,Cruzeiro,1,0,Gustavo Ervino Bauermann,19,16,8,3,0,0,-,-,Não,-,-,2.43,2.99,3.21
+Brazil,Serie A,2024,05/10/2024,01:30,21:30,Gremio,Fortaleza,3,1,Davi de Oliveira Lacerda,11,9,2,4,0,1,-,80',Sim,2x1,3x1,2.12,3.35,3.49
+Brazil,Serie A,2024,05/10/2024,20:30,16:30,Athletico-PR,Botafogo RJ,0,1,Flavio Rodrigues De Souza,8,20,2,4,0,0,-,-,Não,-,-,3.18,3.44,2.21
+Brazil,Serie A,2024,05/10/2024,20:30,16:30,Atletico-MG,Vitoria,2,2,Matheus Delgado Candançan,13,14,1,0,1,0,83',-,Sim,2x2,2x2,1.82,3.26,05.03
+Brazil,Serie A,2024,05/10/2024,20:30,16:30,Bragantino,Palmeiras,0,0,Braulio Da Silva Machado,7,14,4,3,0,1,-,90'+13,Sim,0x0,0x0,4.29,3.59,1.83
+Brazil,Serie A,2024,05/10/2024,23:00,19:00,Bahia,Flamengo RJ,0,2,Rafael Rodrigo Klein,20,11,5,4,1,0,90'+11,-,Sim,0x1,0x2,2.71,3.25,2.63
+Brazil,Serie A,2024,05/10/2024,23:00,19:00,Corinthians,Internacional,2,2,Lucas Paulo Torezin,11,14,6,4,0,0,-,-,Não,-,-,2.26,3.17,3.32
+Brazil,Serie A,2024,05/10/2024,23:00,19:00,Cuiaba,Sao Paulo,2,0,Anderson Daronco,12,8,2,2,0,0,-,-,Não,-,-,3.69,2.78,2.35
+Brazil,Serie A,2024,06/10/2024,01:00,21:00,Vasco,Juventude,1,1,Caio Max Augusto Vieira,14,13,1,3,1,0,87',-,Sim,1x1,1x1,1.73,3.63,4.9
+Brazil,Serie A,2024,09/10/2024,23:30,19:30,Atletico-MG,Gremio,2,1,Luiz Flavio de Oliveira,15,7,4,3,0,0,-,-,Não,-,-,1.81,3.55,4.43
+Brazil,Serie A,2024,17/10/2024,01:45,21:45,Fortaleza,Atletico-MG,1,1,Rafael Rodrigo Klein,9,10,2,3,2,0,59' e 83',-,Sim,1x1,1x1,1.71,3.5,5.48
+Brazil,Serie A,2024,17/10/2024,01:45,21:45,Sao Paulo,Vasco,3,0,Davi de Oliveira Lacerda,8,6,1,0,0,0,-,-,Não,-,-,1.8,3.48,4.7
+Brazil,Serie A,2024,18/10/2024,00:00,20:00,Corinthians,Athletico-PR,5,2,Wilton Pereira Sampaio,9,7,4,3,0,0,-,-,Não,-,-,1.62,3.93,5.45
+Brazil,Serie A,2024,18/10/2024,00:00,20:00,Flamengo RJ,Fluminense,0,2,Raphael Claus,15,15,1,3,0,0,-,-,Não,-,-,1.72,3.34,5.69
+Brazil,Serie A,2024,18/10/2024,23:00,19:00,Atletico GO,Cuiaba,0,0,Braulio Da Silva Machado,17,15,2,3,0,0,-,-,Não,-,-,2.18,3.1,3.65
+Brazil,Serie A,2024,19/10/2024,00:00,20:00,Botafogo RJ,Criciuma,1,1,Matheus Delgado Candançan,12,10,1,2,0,0,-,-,Não,-,-,1.32,5.25,9.24
+Brazil,Serie A,2024,19/10/2024,01:30,21:30,Cruzeiro,Bahia,1,1,Flavio Rodrigues De Souza,10,8,1,2,0,0,-,-,Não,-,-,1.91,3.48,04.06
+Brazil,Serie A,2024,19/10/2024,20:00,16:00,Internacional,Gremio,1,0,Bruno Arleu de Araujo,14,15,1,3,0,0,-,-,Não,-,-,1.74,3.59,4.94
+Brazil,Serie A,2024,19/10/2024,20:00,16:00,Vitoria,Bragantino,1,0,Denis da Silva Ribeiro Serafim,15,8,2,1,0,0,-,-,Não,-,-,2.22,3.12,3.49
+Brazil,Serie A,2024,21/10/2024,00:00,20:00,Juventude,Palmeiras,3,5,Alex Gomes Stefano,15,19,2,5,0,0,-,-,Não,-,-,5.13,3.8,1.66
+Brazil,Serie A,2024,22/10/2024,23:30,19:30,Fluminense,Athletico-PR,1,0,Braulio Da Silva Machado,9,15,3,4,0,0,-,-,Não,-,-,1.77,3.39,05.04
+Brazil,Serie A,2024,24/10/2024,23:00,19:00,Vasco,Cuiaba,1,0,Savio Pereira Sampaio,16,14,2,1,0,0,-,-,Não,-,-,1.82,3.29,4.96
+Brazil,Serie A,2024,26/10/2024,20:30,16:30,Flamengo RJ,Juventude,4,2,Braulio Da Silva Machado,8,14,3,5,0,1,-,75',Sim,3x2,4x2,1.34,05.03,9.13
+Brazil,Serie A,2024,26/10/2024,20:30,16:30,Gremio,Atletico GO,3,1,Edina Alves Batista,14,18,2,5,0,0,-,-,Não,-,-,1.56,4.1,5.8
+Brazil,Serie A,2024,26/10/2024,20:30,16:30,Palmeiras,Fortaleza,2,2,Ramon Abatti Abel,9,17,1,5,0,0,-,-,Não,-,-,1.36,05.02,8.24
+Brazil,Serie A,2024,26/10/2024,20:30,16:30,Vitoria,Fluminense,2,1,Flavio Rodrigues De Souza,15,7,4,2,0,0,-,-,Não,-,-,2.43,2.91,3.33
+Brazil,Serie A,2024,26/10/2024,22:30,18:30,Athletico-PR,Cruzeiro,3,0,Rodrigo Jose Pereira de Lima,14,14,0,3,0,1,-,1',Sim,0x0,3x0,1.83,3.46,4.49
+Brazil,Serie A,2024,26/10/2024,23:00,19:00,Atletico-MG,Internacional,1,3,Marcelo de Lima Henrique,14,14,6,2,0,0,-,-,Não,-,-,3.49,03.09,2.24
+Brazil,Serie A,2024,26/10/2024,23:00,19:00,Bragantino,Botafogo RJ,0,1,Anderson Daronco,13,17,1,1,0,0,-,-,Não,-,-,3.57,3.37,02.09
+Brazil,Serie A,2024,27/10/2024,01:00,21:00,Criciuma,Sao Paulo,1,1,Rafael Rodrigo Klein,13,10,2,0,0,0,-,-,Não,-,-,3.17,03.03,2.4
+Brazil,Serie A,2024,28/10/2024,22:00,18:00,Cuiaba,Corinthians,0,1,Bruno Arleu de Araujo,14,16,5,2,0,0,-,-,Não,-,-,3.3,03.01,2.36
+Brazil,Serie A,2024,29/10/2024,00:00,20:00,Vasco,Bahia,3,2,Raphael Claus,11,9,3,2,0,0,-,-,Não,-,-,2.8,3.3,2.53
+Brazil,Serie A,2024,30/10/2024,22:00,18:00,Internacional,Flamengo RJ,1,1,Davi de Oliveira Lacerda,14,10,1,4,0,0,-,-,Não,-,-,1.85,3.46,4.39
+Brazil,Serie A,2024,02/11/2024,00:00,20:00,Fluminense,Gremio,2,2,Matheus Delgado Candançan,15,14,6,4,0,0,-,-,Não,-,-,2.11,3.19,3.71
+Brazil,Serie A,2024,02/11/2024,19:00,15:00,Bragantino,Cuiaba,0,0,Marcelo de Lima Henrique,8,11,1,3,0,0,-,-,Não,-,-,1.69,3.47,5.76
+Brazil,Serie A,2024,02/11/2024,21:30,17:30,Athletico-PR,Vitoria,1,2,Luiz Flavio de Oliveira,8,13,1,4,0,0,-,-,Não,-,-,1.81,3.39,4.83
+Brazil,Serie A,2024,02/11/2024,21:30,17:30,Juventude,Fortaleza,0,3,Raphael Claus,7,14,3,2,0,0,-,-,Não,-,-,2.52,3.17,2.91
+Brazil,Serie A,2024,04/11/2024,23:00,19:00,Corinthians,Palmeiras,2,0,Wilton Pereira Sampaio,18,13,2,3,0,0,-,-,Não,-,-,3.14,3.21,2.35
+Brazil,Serie A,2024,06/11/2024,00:30,20:30,Bahia,Sao Paulo,0,3,Alex Gomes Stefano,13,16,3,2,0,0,-,-,Não,-,-,2.28,3.11,3.37
+Brazil,Serie A,2024,06/11/2024,00:30,20:30,Botafogo RJ,Vasco,3,0,Bruno Arleu de Araujo,13,8,0,3,0,1,-,43',Sim,2x0,3x0,1.39,4.75,7.94
+Brazil,Serie A,2024,06/11/2024,00:30,20:30,Internacional,Criciuma,2,0,Felipe Fernandes de Lima,15,13,1,2,0,1,-,45'+5,Sim,1x0,2x0,1.35,05.05,8.46
+Brazil,Serie A,2024,07/11/2024,00:00,20:00,Atletico GO,Atletico-MG,1,0,Jonathan Berkenstein Pinheiro,11,13,2,2,0,0,-,-,Não,-,-,2.27,3.2,3.31
+Brazil,Serie A,2024,07/11/2024,00:00,20:00,Cruzeiro,Flamengo RJ,0,1,Gustavo Ervino Bauermann,8,13,2,7,0,1,-,90'+4,Sim,0x1,0x1,2.55,3.12,2.92
+Brazil,Serie A,2024,08/11/2024,22:00,18:00,Internacional,Fluminense,2,0,Luiz Flavio de Oliveira,11,10,3,1,0,0,-,-,Não,-,-,1.47,4.2,7.13
+Brazil,Serie A,2024,09/11/2024,00:30,20:30,Palmeiras,Gremio,1,0,Marcelo de Lima Henrique,14,9,5,3,0,0,-,-,Não,-,-,1.37,05.09,7.68
+Brazil,Serie A,2024,09/11/2024,19:30,15:30,Botafogo RJ,Cuiaba,0,0,Rodrigo Jose Pereira de Lima,8,14,0,6,0,0,-,-,Não,-,-,1.22,6,13.8
+Brazil,Serie A,2024,09/11/2024,19:30,15:30,Vitoria,Corinthians,1,2,Bruno Arleu de Araujo,11,11,4,2,0,0,-,-,Não,-,-,3.12,03.03,2.47
+Brazil,Serie A,2024,09/11/2024,22:00,18:00,Atletico GO,Bragantino,0,0,Anderson Daronco,14,11,3,2,0,0,-,-,Não,-,-,2.61,3.35,2.67
+Brazil,Serie A,2024,09/11/2024,22:00,18:00,Cruzeiro,Criciuma,2,1,Wagner do Nascimento Magalhaes,13,11,4,4,0,0,-,-,Não,-,-,1.63,3.78,5.6
+Brazil,Serie A,2024,09/11/2024,22:00,18:00,Fortaleza,Vasco,3,0,Lucas Paulo Torezin,13,11,1,1,0,0,-,-,Não,-,-,1.71,3.69,4.97
+Brazil,Serie A,2024,09/11/2024,22:00,18:00,Juventude,Bahia,2,1,Wilton Pereira Sampaio,11,9,3,1,0,0,-,-,Não,-,-,2.47,3.4,2.79
+Brazil,Serie A,2024,10/11/2024,00:00,20:00,Sao Paulo,Athletico-PR,2,1,Rafael Rodrigo Klein,5,20,2,5,0,0,-,-,Não,-,-,1.56,3.89,6.31
+Brazil,Serie A,2024,13/11/2024,23:00,19:00,Flamengo RJ,Atletico-MG,0,0,Davi de Oliveira Lacerda,14,7,1,1,0,0,-,-,Não,-,-,1.98,3.29,04.02
+Brazil,Serie A,2024,16/11/2024,21:30,17:30,Athletico-PR,Atletico-MG,1,0,Matheus Delgado Candançan,11,10,2,2,0,0,-,-,Não,-,-,2.29,3.19,3.26
+Brazil,Serie A,2024,20/11/2024,14:00,10:00,Corinthians,Cruzeiro,2,1,Jonathan Berkenstein Pinheiro,13,15,3,3,0,0,-,-,Não,-,-,1.47,4.25,6.96
+Brazil,Serie A,2024,20/11/2024,19:30,15:30,Athletico-PR,Atletico GO,2,0,Alex Gomes Stefano,9,8,1,2,1,0,74',-,Sim,2x0,2x0,1.64,3.82,5.41
+Brazil,Serie A,2024,20/11/2024,19:30,15:30,Bragantino,Sao Paulo,1,1,Wilton Pereira Sampaio,16,12,3,2,0,0,-,-,Não,-,-,2.48,03.05,03.09
+Brazil,Serie A,2024,20/11/2024,19:30,15:30,Criciuma,Vitoria,0,1,Rafael Rodrigo Klein,11,18,1,3,1,0,27',-,Sim,0x0,0x1,2.13,3.22,3.64
+Brazil,Serie A,2024,20/11/2024,21:00,17:00,Bahia,Palmeiras,1,2,Wagner do Nascimento Magalhaes,15,14,1,1,0,0,-,-,Não,-,-,3.23,3.59,2.14
+Brazil,Serie A,2024,20/11/2024,22:00,18:00,Cuiaba,Flamengo RJ,1,2,Edina Alves Batista,6,10,1,2,0,0,-,-,Não,-,-,4.21,3.3,1.94
+Brazil,Serie A,2024,20/11/2024,22:00,18:00,Gremio,Juventude,2,2,Bruno Arleu de Araujo,17,16,3,5,0,0,-,-,Não,-,-,1.81,3.6,4.46
+Brazil,Serie A,2024,21/11/2024,00:30,20:30,Atletico-MG,Botafogo RJ,0,0,Luiz Flavio de Oliveira,9,11,7,2,1,1,40',90'+7,Sim,0x0,0x0,3.99,3.18,02.03
+Brazil,Serie A,2024,21/11/2024,23:00,19:00,Vasco,Internacional,0,1,Rodrigo Jose Pereira de Lima,8,10,1,0,0,0,-,-,Não,-,-,3.61,3.26,2.11
+Brazil,Serie A,2024,23/11/2024,00:30,20:30,Fluminense,Fortaleza,2,2,Raphael Claus,9,11,1,3,0,0,-,-,Não,-,-,02.06,3.18,3.9
+Brazil,Serie A,2024,23/11/2024,22:30,18:30,Atletico GO,Palmeiras,0,1,Jonathan Berkenstein Pinheiro,16,14,3,2,0,0,-,-,Não,-,-,8.19,05.09,1.35
+Brazil,Serie A,2024,23/11/2024,22:30,18:30,Botafogo RJ,Vitoria,1,1,Ramon Abatti Abel,10,7,3,4,1,0,90'+7,-,Sim,1x1,1x1,1.36,4.84,8.74
+Brazil,Serie A,2024,23/11/2024,22:30,18:30,Juventude,Cuiaba,1,1,Matheus Delgado Candançan,9,7,0,3,0,0,-,-,Não,-,-,1.62,3.72,5.93
+Brazil,Serie A,2024,24/11/2024,00:30,20:30,Sao Paulo,Atletico-MG,2,2,Alex Gomes Stefano,11,11,3,4,0,0,-,-,Não,-,-,1.97,3.12,4.34
+Brazil,Serie A,2024,24/11/2024,19:00,15:00,Bahia,Athletico-PR,1,1,Rodrigo Jose Pereira de Lima,7,13,1,2,0,0,-,-,Não,-,-,1.7,3.94,4.64
+Brazil,Serie A,2024,24/11/2024,19:00,15:00,Corinthians,Vasco,3,1,Davi de Oliveira Lacerda,8,14,1,4,0,0,-,-,Não,-,-,1.59,3.91,5.82
+Brazil,Serie A,2024,24/11/2024,19:00,15:00,Internacional,Bragantino,4,1,Marcelo de Lima Henrique,16,12,2,2,0,0,-,-,Não,-,-,1.56,4.14,5.69
+Brazil,Serie A,2024,26/11/2024,22:00,18:00,Fluminense,Criciuma,0,0,Luiz Flavio de Oliveira,6,15,1,2,0,0,-,-,Não,-,-,1.63,3.66,5.79
+Brazil,Serie A,2024,26/11/2024,23:00,19:00,Fortaleza,Flamengo RJ,0,0,Anderson Daronco,16,14,2,4,0,0,-,-,Não,-,-,3.11,3.2,2.36
+Brazil,Serie A,2024,27/11/2024,00:30,20:30,Atletico-MG,Juventude,2,3,Flavio Rodrigues De Souza,13,8,1,0,0,0,-,-,Não,-,-,2.55,2.99,03.03
+Brazil,Serie A,2024,27/11/2024,00:30,20:30,Palmeiras,Botafogo RJ,1,3,Wilton Pereira Sampaio,9,16,2,4,1,0,70',-,Sim,0x1,3x1,02.05,3.24,3.9
+Brazil,Serie A,2024,28/11/2024,00:00,20:00,Cruzeiro,Gremio,1,1,Raphael Claus,16,6,2,1,0,0,-,-,Não,-,-,1.99,3.31,3.95
+Brazil,Serie A,2024,30/11/2024,22:30,18:30,Criciuma,Corinthians,2,4,Anderson Daronco,10,8,2,3,0,0,-,-,Não,-,-,3.4,3.27,2.19
+Brazil,Serie A,2024,30/11/2024,22:30,18:30,Cuiaba,Bahia,1,2,David Lacerda,9,8,4,1,0,0,-,-,Não,-,-,4.21,3.42,1.9
+Brazil,Serie A,2024,01/12/2024,00:30,20:30,Vasco,Atletico GO,2,2,Lucas Paulo Torezin,10,10,2,3,0,0,-,-,Não,-,-,1.9,3.4,4.23
+Brazil,Serie A,2024,01/12/2024,19:00,15:00,Flamengo RJ,Internacional,3,2,Rodrigo Jose Pereira de Lima,14,12,2,2,0,0,-,-,Não,-,-,1.91,3.39,4.21
+Brazil,Serie A,2024,01/12/2024,19:00,15:00,Gremio,Sao Paulo,2,1,Ramon Abatti Abel,11,7,1,1,0,0,-,-,Não,-,-,2.33,3.15,3.2
+Brazil,Serie A,2024,01/12/2024,21:30,17:30,Athletico-PR,Fluminense,1,1,Eduardo Senna,10,10,1,2,0,1,-,90'+4,Sim,1x1,1x1,2.28,2.95,3.58
+Brazil,Serie A,2024,01/12/2024,21:30,17:30,Bragantino,Cruzeiro,1,1,Victor Andre Rodriguez Ballesteros,11,14,2,2,0,0,-,-,Não,-,-,2,3.32,3.91
+Brazil,Serie A,2024,01/12/2024,21:30,17:30,Vitoria,Fortaleza,2,0,Wilton Pereira Sampaio,13,10,4,3,0,0,-,-,Não,-,-,2.24,3.13,3.42
+Brazil,Serie A,2024,03/12/2024,23:00,19:00,Corinthians,Bahia,3,0,Bruno Arleu de Araujo,12,13,2,4,0,0,-,-,Não,-,-,1.68,3.94,4.83
+Brazil,Serie A,2024,04/12/2024,22:00,18:00,Vasco,Atletico-MG,2,0,Lucas Paulo Torezin,20,13,4,3,0,0,-,-,Não,-,-,2.98,2.92,2.64
+Brazil,Serie A,2024,04/12/2024,23:00,19:00,Criciuma,Flamengo RJ,0,3,Wilton Pereira Sampaio,16,6,1,0,0,0,-,-,Não,-,-,3.12,3.61,2.19
+Brazil,Serie A,2024,04/12/2024,23:00,19:00,Sao Paulo,Juventude,1,2,Savio Pereira Sampaio,9,15,0,2,0,0,-,-,Não,-,-,1.7,3.73,5
+Brazil,Serie A,2024,04/12/2024,23:00,19:00,Vitoria,Gremio,1,1,Alex Gomes Stefano,13,10,1,2,0,0,-,-,Não,-,-,2.4,3.11,3.15
+Brazil,Serie A,2024,05/12/2024,00:30,20:30,Atletico GO,Fortaleza,3,1,Lucas Casagrande,13,16,4,3,0,0,-,-,Não,-,-,2.59,3.27,2.75
+Brazil,Serie A,2024,05/12/2024,00:30,20:30,Cruzeiro,Palmeiras,1,2,Anderson Daronco,14,13,3,1,0,0,-,-,Não,-,-,3.91,3.37,1.98
+Brazil,Serie A,2024,05/12/2024,00:30,20:30,Internacional,Botafogo RJ,0,1,Ramon Abatti Abel,9,12,5,2,0,0,-,-,Não,-,-,2.72,3.24,2.62
+Brazil,Serie A,2024,05/12/2024,23:00,19:00,Athletico-PR,Bragantino,1,2,Rodrigo Jose Pereira de Lima,14,15,1,5,0,0,-,-,Não,-,-,2.12,3.24,3.59
+Brazil,Serie A,2024,05/12/2024,23:00,19:00,Fluminense,Cuiaba,1,0,Rafael Rodrigo Klein,14,9,3,4,0,0,-,-,Não,-,-,1.37,4.46,9.8
+Brazil,Serie A,2024,08/12/2024,19:00,15:00,Atletico-MG,Athletico-PR,1,0,Rafael Rodrigo Klein,12,16,3,3,0,0,-,-,Não,-,-,02.07,03.09,3.99
+Brazil,Serie A,2024,08/12/2024,19:00,15:00,Bahia,Atletico GO,2,0,Gustavo Ervino Bauermann,15,11,4,1,0,0,-,-,Não,-,-,1.42,4.72,07.09
+Brazil,Serie A,2024,08/12/2024,19:00,15:00,Botafogo RJ,Sao Paulo,2,1,Anderson Daronco,8,3,0,0,0,0,-,-,Não,-,-,1.26,5.24,13.76
+Brazil,Serie A,2024,08/12/2024,19:00,15:00,Bragantino,Criciuma,5,1,Savio Pereira Sampaio,9,13,1,3,0,0,-,-,Não,-,-,1.38,4.81,7.85
+Brazil,Serie A,2024,08/12/2024,19:00,15:00,Cuiaba,Vasco,1,2,Tiago Gomes da SIlva,15,8,0,1,0,0,-,-,Não,-,-,3.52,3.16,2.19
+Brazil,Serie A,2024,08/12/2024,19:00,15:00,Flamengo RJ,Vitoria,2,2,Lucas Casagrande,7,8,0,2,0,0,-,-,Não,-,-,1.37,05.02,7.66
+Brazil,Serie A,2024,08/12/2024,19:00,15:00,Fortaleza,Internacional,3,0,Matheus Delgado Candançan,8,13,1,2,0,0,-,-,Não,-,-,2.59,3.18,2.8
+Brazil,Serie A,2024,08/12/2024,19:00,15:00,Gremio,Corinthians,0,3,Paulo Cesar Zanovelli da Silva,11,14,1,1,1,1,79',79',Sim,0x1,0x3,2.67,3.34,2.61
+Brazil,Serie A,2024,08/12/2024,19:00,15:00,Juventude,Cruzeiro,0,1,Edina Alves Batista,13,13,3,4,1,1,90'+6,90',Sim,0x1,0x1,2.13,3.37,3.44
+Brazil,Serie A,2024,08/12/2024,19:00,15:00,Palmeiras,Fluminense,0,1,Ramon Abatti Abel,14,11,2,5,0,0,-,-,Não,-,-,1.46,4.41,6.74
+Brazil,Serie A,2025,29/03/2025,21:30,17:30,Cruzeiro,Mirassol,2,1,Alex Gomes Stefano,18,21,4,3,0,0,-,-,Não,-,-,1.58,3.66,6.75
+Brazil,Serie A,2025,29/03/2025,21:30,17:30,Fortaleza,Fluminense,2,0,Rodrigo Jose Pereira de Lima,15,5,1,0,0,0,-,-,Não,-,-,2.46,2.98,3.21
+Brazil,Serie A,2025,29/03/2025,21:30,17:30,Gremio,Atletico-MG,2,1,Raphael Claus,19,5,4,0,0,0,-,-,Não,-,-,2.68,03.02,2.85
+Brazil,Serie A,2025,29/03/2025,21:30,17:30,Juventude,Vitoria,2,0,Paulo Cesar Zanovelli da Silva,16,16,3,4,0,0,-,-,Não,-,-,2.19,3.13,3.58
+Brazil,Serie A,2025,29/03/2025,21:30,17:30,Sao Paulo,Sport Recife,0,0,Felipe Fernandes de Lima,17,21,0,2,0,0,-,-,Não,-,-,1.75,3.37,5.38
+Brazil,Serie A,2025,30/03/2025,00:00,20:00,Flamengo RJ,Internacional,1,1,Davi de Oliveira Lacerda,10,17,2,4,0,0,-,-,Não,-,-,1.79,3.47,4.79
+Brazil,Serie A,2025,30/03/2025,20:00,16:00,Palmeiras,Botafogo RJ,0,0,Ramon Abatti Abel,18,22,3,3,0,0,-,-,Não,-,-,1.67,3.6,5.7
+Brazil,Serie A,2025,30/03/2025,22:30,18:30,Vasco,Santos,2,1,Rafael Rodrigo Klein,11,12,1,1,0,0,-,-,Não,-,-,2.33,03.07,3.34
+Brazil,Serie A,2025,31/03/2025,00:00,20:00,Bahia,Corinthians,1,1,Bruno Arleu de Araujo,16,15,4,2,1,0,51',-,Sim,1x0,1x1,1.82,3.48,4.61
+Brazil,Serie A,2025,01/04/2025,00:00,20:00,Bragantino,Ceara,2,2,Bruno Pereira Vasconcelos,14,13,1,3,0,0,-,-,Não,-,-,1.96,3.32,4.1
+Brazil,Serie A,2025,05/04/2025,22:30,18:30,Ceara,Gremio,2,0,Edina Alves Batista,6,18,1,3,0,0,-,-,Não,-,-,2.1,3.18,3.8
+Brazil,Serie A,2025,05/04/2025,22:30,18:30,Corinthians,Vasco,3,0,Anderson Daronco,18,16,3,2,0,0,-,-,Não,-,-,1.58,3.89,6.16
+Brazil,Serie A,2025,06/04/2025,01:00,21:00,Botafogo RJ,Juventude,2,0,Rodrigo Jose Pereira de Lima,14,7,2,2,0,0,-,-,Não,-,-,1.4,4.52,8.59
+Brazil,Serie A,2025,06/04/2025,20:00,16:00,Atletico-MG,Sao Paulo,0,0,Ramon Abatti Abel,16,12,2,3,1,1,90'+9,84',Sim,0x0,0x0,2,03.05,4.42
+Brazil,Serie A,2025,06/04/2025,20:00,16:00,Fluminense,Bragantino,2,1,Wilton Pereira Sampaio,15,12,1,0,0,0,-,-,Não,-,-,1.83,3.36,4.78
+Brazil,Serie A,2025,06/04/2025,22:30,18:30,Internacional,Cruzeiro,3,0,Marcelo de Lima Henrique,19,11,1,1,0,1,-,20',Sim,0x0,3x0,1.62,3.66,6.14
+Brazil,Serie A,2025,06/04/2025,22:30,18:30,Mirassol,Fortaleza,1,1,Savio Pereira Sampaio,15,12,2,3,0,0,-,-,Não,-,-,2.34,2.99,3.43
+Brazil,Serie A,2025,06/04/2025,22:30,18:30,Sport Recife,Palmeiras,1,2,Bruno Arleu de Araujo,17,21,6,4,0,0,-,-,Não,-,-,3.15,2.98,2.49
+Brazil,Serie A,2025,06/04/2025,22:30,18:30,Vitoria,Flamengo RJ,1,2,Rafael Rodrigo Klein,7,17,0,0,0,0,-,-,Não,-,-,5.15,3.32,1.79
+Brazil,Serie A,2025,07/04/2025,00:30,20:30,Santos,Bahia,2,2,Alex Gomes Stefano,13,16,5,2,0,0,-,-,Não,-,-,2.1,3.13,3.86
+Brazil,Serie A,2025,12/04/2025,20:00,16:00,Bragantino,Botafogo RJ,1,0,Anderson Daronco,19,11,3,2,0,0,-,-,Não,-,-,2.97,03.06,2.56
+Brazil,Serie A,2025,12/04/2025,20:00,16:00,Juventude,Ceara,2,1,Lucas Casagrande,14,15,1,3,0,0,-,-,Não,-,-,2.27,03.09,3.44
+Brazil,Serie A,2025,12/04/2025,22:30,18:30,Palmeiras,Corinthians,2,0,Rafael Rodrigo Klein,17,18,6,5,0,0,-,-,Não,-,-,1.76,3.44,5.14
+Brazil,Serie A,2025,13/04/2025,01:00,21:00,Vasco,Sport Recife,3,1,Savio Pereira Sampaio,11,14,3,2,0,0,-,-,Não,-,-,1.94,3.35,4.16
+Brazil,Serie A,2025,13/04/2025,20:00,16:00,Bahia,Mirassol,1,1,Braulio Da Silva Machado,11,10,2,5,0,0,-,-,Não,-,-,1.5,04.05,07.06
+Brazil,Serie A,2025,13/04/2025,21:30,17:30,Gremio,Flamengo RJ,0,2,Ramon Abatti Abel,11,14,1,2,0,0,-,-,Não,-,-,4.47,3.43,1.85
+Brazil,Serie A,2025,13/04/2025,21:30,17:30,Sao Paulo,Cruzeiro,1,1,Rodrigo Jose Pereira de Lima,14,21,5,6,0,0,-,-,Não,-,-,1.88,3.14,4.87
+Brazil,Serie A,2025,13/04/2025,23:30,19:30,Fluminense,Santos,1,0,Felipe Fernandes de Lima,16,22,2,4,0,0,-,-,Não,-,-,1.79,3.27,5.21
+Brazil,Serie A,2025,14/04/2025,00:00,20:00,Fortaleza,Internacional,0,0,Flavio Rodrigues De Souza,12,13,6,2,1,0,90'+4,-,Sim,0x0,0x0,3,03.09,2.52
+Brazil,Serie A,2025,14/04/2025,00:30,20:30,Atletico-MG,Vitoria,2,2,Davi de Oliveira Lacerda,8,10,2,3,0,0,-,-,Não,-,-,1.56,3.81,6.64
+Brazil,Serie A,2025,16/04/2025,01:30,21:30,Ceara,Vasco,2,1,Denis da Silva Ribeiro Serafim,14,12,3,4,0,0,-,-,Não,-,-,2.22,3.16,3.48
+Brazil,Serie A,2025,16/04/2025,22:30,18:30,Botafogo RJ,Sao Paulo,2,2,Davi de Oliveira Lacerda,11,4,0,4,0,0,-,-,Não,-,-,1.83,3.28,4.9
+Brazil,Serie A,2025,16/04/2025,23:00,19:00,Mirassol,Gremio,4,1,Lucas Paulo Torezin,12,16,2,4,0,0,-,-,Não,-,-,2.97,2.99,2.6
+Brazil,Serie A,2025,16/04/2025,23:00,19:00,Sport Recife,Bragantino,0,1,Paulo Cesar Zanovelli da Silva,10,12,3,2,0,0,-,-,Não,-,-,2.37,3.18,3.17
+Brazil,Serie A,2025,16/04/2025,23:30,19:30,Corinthians,Fluminense,0,2,Rodrigo Jose Pereira de Lima,12,13,2,2,0,0,-,-,Não,-,-,2.19,03.01,3.8
+Brazil,Serie A,2025,16/04/2025,23:30,19:30,Internacional,Palmeiras,0,1,Felipe Fernandes de Lima,15,16,0,1,0,0,-,-,Não,-,-,2.75,2.94,2.85
+Brazil,Serie A,2025,17/04/2025,01:30,21:30,Flamengo RJ,Juventude,6,0,Matheus Delgado Candançan,14,12,1,1,0,0,-,-,Não,-,-,1.21,6.39,14.52
+Brazil,Serie A,2025,17/04/2025,01:30,21:30,Santos,Atletico-MG,2,0,Braulio Da Silva Machado,11,18,3,3,0,0,-,-,Não,-,-,2.44,3.13,03.08
+Brazil,Serie A,2025,17/04/2025,01:30,21:30,Vitoria,Fortaleza,2,1,Raphael Claus,15,10,1,1,0,0,-,-,Não,-,-,2.35,03.04,3.32
+Brazil,Serie A,2025,18/04/2025,01:30,21:30,Cruzeiro,Bahia,3,0,Flavio Rodrigues De Souza,15,9,5,2,0,0,-,-,Não,-,-,2.3,03.07,3.42
+Brazil,Serie A,2025,19/04/2025,20:00,16:00,Corinthians,Sport Recife,2,1,Anderson Daronco,11,12,3,2,0,0,-,-,Não,-,-,1.73,3.47,5.27
+Brazil,Serie A,2025,19/04/2025,22:30,18:30,Vasco,Flamengo RJ,0,0,Raphael Claus,14,10,2,1,0,0,-,-,Não,-,-,8.45,4.31,1.41
+Brazil,Serie A,2025,20/04/2025,01:00,21:00,Gremio,Internacional,1,1,Braulio Da Silva Machado,14,14,7,3,0,0,-,-,Não,-,-,3.38,2.93,2.39
+Brazil,Serie A,2025,20/04/2025,15:00,11:00,Juventude,Mirassol,2,2,Paulo Belence Alves Dos Prazeres Filho,18,10,2,2,0,0,-,-,Não,-,-,2.35,03.04,3.34
+Brazil,Serie A,2025,20/04/2025,20:00,16:00,Atletico-MG,Botafogo RJ,1,0,Ramon Abatti Abel,13,14,3,2,0,1,-,63',Sim,1x0,1x0,2.22,3.27,3.35
+Brazil,Serie A,2025,20/04/2025,20:00,16:00,Sao Paulo,Santos,2,1,Wilton Pereira Sampaio,17,13,7,3,0,0,-,-,Não,-,-,2.34,2.93,3.52
+Brazil,Serie A,2025,20/04/2025,22:30,18:30,Fluminense,Vitoria,1,1,Matheus Delgado Candançan,12,14,0,1,0,0,-,-,Não,-,-,1.67,3.47,5.99
+Brazil,Serie A,2025,20/04/2025,22:30,18:30,Fortaleza,Palmeiras,1,2,Paulo Cesar Zanovelli da Silva,12,13,1,1,0,0,-,-,Não,-,-,4.13,3.18,02.01
+Brazil,Serie A,2025,21/04/2025,00:30,20:30,Bragantino,Cruzeiro,1,0,Alex Gomes Stefano,17,13,2,3,0,0,-,-,Não,-,-,2.18,3.23,3.5
+Brazil,Serie A,2025,22/04/2025,00:00,20:00,Bahia,Ceara,1,0,Rafael Rodrigo Klein,14,18,2,4,0,0,-,-,Não,-,-,1.79,3.63,4.54
+Brazil,Serie A,2025,26/04/2025,20:00,16:00,Internacional,Juventude,3,1,Flavio Rodrigues De Souza,17,8,1,2,0,0,-,-,Não,-,-,1.4,4.6,8.21
+Brazil,Serie A,2025,26/04/2025,22:30,18:30,Ceara,Sao Paulo,1,1,Anderson Daronco,13,19,2,5,0,0,-,-,Não,-,-,2.35,2.82,3.64
+Brazil,Serie A,2025,26/04/2025,22:30,18:30,Mirassol,Atletico-MG,2,2,Davi de Oliveira Lacerda,11,5,4,2,0,0,-,-,Não,-,-,3.24,03.04,2.4
+Brazil,Serie A,2025,27/04/2025,00:00,20:00,Sport Recife,Fortaleza,0,0,Matheus Delgado Candançan,11,9,0,4,0,1,-,90'+8,Sim,0x0,0x0,02.05,3.28,3.82
+Brazil,Serie A,2025,27/04/2025,01:00,21:00,Botafogo RJ,Fluminense,2,0,Bruno Arleu de Araujo,21,9,4,4,0,0,-,-,Não,-,-,2.14,03.02,3.87
+Brazil,Serie A,2025,27/04/2025,20:00,16:00,Flamengo RJ,Corinthians,4,0,Ramon Abatti Abel,14,12,2,1,0,0,-,-,Não,-,-,1.48,4.11,7.29
+Brazil,Serie A,2025,27/04/2025,22:30,18:30,Cruzeiro,Vasco,1,0,Rafael Rodrigo Klein,18,12,0,0,0,0,-,-,Não,-,-,2.23,03.01,3.63
+Brazil,Serie A,2025,27/04/2025,22:30,18:30,Palmeiras,Bahia,0,1,Wilton Pereira Sampaio,12,16,1,2,0,0,-,-,Não,-,-,1.55,04.04,6.22
+Brazil,Serie A,2025,27/04/2025,22:30,18:30,Vitoria,Gremio,1,1,Felipe Fernandes de Lima,20,11,4,1,0,0,-,-,Não,-,-,2.37,03.07,3.26
+Brazil,Serie A,2025,28/04/2025,00:30,20:30,Santos,Bragantino,1,2,Raphael Claus,13,15,2,5,0,0,-,-,Não,-,-,2.17,3.18,3.58
+Brazil,Serie A,2025,03/05/2025,01:30,21:30,Sao Paulo,Fortaleza,0,0,Wagner do Nascimento Magalhaes,15,19,2,2,0,0,-,-,Não,-,-,1.85,3.19,4.98
+Brazil,Serie A,2025,03/05/2025,22:30,18:30,Ceara,Vitoria,1,0,Alex Gomes Stefano,15,31,0,4,0,0,-,-,Não,-,-,2.26,2.86,3.82
+Brazil,Serie A,2025,03/05/2025,22:30,18:30,Corinthians,Internacional,4,2,Paulo Cesar Zanovelli da Silva,11,13,3,3,0,1,-,61',Sim,1x2,4x2,2.62,2.89,03.06
+Brazil,Serie A,2025,03/05/2025,22:30,18:30,Fluminense,Sport Recife,2,1,Rafael Rodrigo Klein,12,13,1,5,0,0,-,-,Não,-,-,1.75,3.45,5.17
+Brazil,Serie A,2025,04/05/2025,01:00,21:00,Bahia,Botafogo RJ,1,0,Flavio Rodrigues De Souza,11,7,3,4,0,0,-,-,Não,-,-,1.98,3.36,3.94
+Brazil,Serie A,2025,04/05/2025,20:00,16:00,Gremio,Santos,1,0,Bruno Arleu de Araujo,10,19,5,3,0,0,-,-,Não,-,-,2.27,3.1,3.43
+Brazil,Serie A,2025,04/05/2025,20:00,16:00,Vasco,Palmeiras,0,1,Davi de Oliveira Lacerda,11,8,2,0,0,0,-,-,Não,-,-,6.42,3.64,1.6
+Brazil,Serie A,2025,04/05/2025,22:30,18:30,Cruzeiro,Flamengo RJ,2,1,Wilton Pereira Sampaio,18,9,4,2,0,0,-,-,Não,-,-,4.67,3.26,1.88
+Brazil,Serie A,2025,05/05/2025,23:00,19:00,Bragantino,Mirassol,1,0,Lucas Canetto Bellote,8,12,2,3,0,0,-,-,Não,-,-,1.82,3.38,4.75
+Brazil,Serie A,2025,06/05/2025,00:00,20:00,Juventude,Atletico-MG,0,1,Bruno Pereira Vasconcelos,12,16,2,2,0,0,-,-,Não,-,-,3.36,3.16,2.27
+Brazil,Serie A,2025,10/05/2025,20:00,16:00,Fortaleza,Juventude,5,0,Lucas Paulo Torezin,13,14,3,4,0,0,-,-,Não,-,-,1.58,3.93,5.97
+Brazil,Serie A,2025,10/05/2025,22:30,18:30,Gremio,Bragantino,1,1,Davi de Oliveira Lacerda,14,11,1,3,0,0,-,-,Não,-,-,2.64,3.13,2.79
+Brazil,Serie A,2025,10/05/2025,22:30,18:30,Mirassol,Corinthians,2,1,Joao Vitor Gobi,14,19,2,5,0,0,-,-,Não,-,-,2.88,03.02,2.66
+Brazil,Serie A,2025,10/05/2025,22:30,18:30,Vitoria,Vasco,2,1,Wilton Pereira Sampaio,7,17,1,3,1,0,33',-,Sim,0x0,2x1,1.98,3.31,04.04
+Brazil,Serie A,2025,11/05/2025,01:00,21:00,Flamengo RJ,Bahia,1,0,Anderson Daronco,11,9,0,1,1,0,87',-,Sim,1x0,1x0,1.39,4.54,8.57
+Brazil,Serie A,2025,11/05/2025,20:00,16:00,Sport Recife,Cruzeiro,0,4,Raphael Claus,11,5,1,0,0,0,-,-,Não,-,-,2.5,2.98,3.12
+Brazil,Serie A,2025,11/05/2025,21:30,17:30,Atletico-MG,Fluminense,3,2,Ramon Abatti Abel,15,7,2,2,0,0,-,-,Não,-,-,1.93,3.22,4.4
+Brazil,Serie A,2025,11/05/2025,21:30,17:30,Palmeiras,Sao Paulo,1,0,Rafael Rodrigo Klein,12,16,1,2,0,0,-,-,Não,-,-,1.76,3.33,5.36
+Brazil,Serie A,2025,12/05/2025,00:00,20:00,Botafogo RJ,Internacional,4,0,Matheus Delgado Candançan,11,10,0,1,0,0,-,-,Não,-,-,1.72,3.52,5.32
+Brazil,Serie A,2025,13/05/2025,00:00,20:00,Santos,Ceara,0,0,Felipe Fernandes de Lima,11,21,1,2,0,0,-,-,Não,-,-,2.42,2.93,3.35
+Brazil,Serie A,2025,17/05/2025,20:00,16:00,Ceara,Sport Recife,2,0,Gustavo Ervino Bauermann,14,16,1,4,0,0,-,-,Não,-,-,1.92,3.26,4.46
+Brazil,Serie A,2025,17/05/2025,22:30,18:30,Vasco,Fortaleza,3,0,Anderson Daronco,12,11,2,1,1,1,68',68',Sim,2x0,3x0,2.48,2.98,3.19
+Brazil,Serie A,2025,18/05/2025,01:00,21:00,Sao Paulo,Gremio,2,1,Rodrigo Jose Pereira de Lima,14,13,4,5,0,0,-,-,Não,-,-,1.64,3.69,5.84
+Brazil,Serie A,2025,18/05/2025,20:00,16:00,Bahia,Vitoria,2,1,Ramon Abatti Abel,12,23,3,4,1,1,5',71,Sim,0x0,2x1,1.72,3.48,5.39
+Brazil,Serie A,2025,18/05/2025,20:00,16:00,Corinthians,Santos,1,0,Raphael Claus,8,14,2,6,0,1,-,80',Sim,1x0,1x0,02.08,03.08,04.03
+Brazil,Serie A,2025,18/05/2025,20:00,16:00,Juventude,Fluminense,1,1,Wilton Pereira Sampaio,18,13,4,3,0,0,-,-,Não,-,-,3.8,3.28,02.09
+Brazil,Serie A,2025,18/05/2025,22:30,18:30,Bragantino,Palmeiras,1,2,Marcelo de Lima Henrique,15,12,2,2,0,0,-,-,Não,-,-,3.93,3.18,02.07
+Brazil,Serie A,2025,18/05/2025,22:30,18:30,Flamengo RJ,Botafogo RJ,0,0,Bruno Arleu de Araujo,9,23,1,5,0,0,-,-,Não,-,-,1.74,3.48,5.17
+Brazil,Serie A,2025,19/05/2025,00:30,20:30,Cruzeiro,Atletico-MG,0,0,Flavio Rodrigues De Souza,15,17,1,5,0,0,-,-,Não,-,-,2.54,03.08,2.98
+Brazil,Serie A,2025,19/05/2025,00:30,20:30,Internacional,Mirassol,1,1,Wagner do Nascimento Magalhaes,10,10,2,4,0,0,-,-,Não,-,-,1.68,3.73,5.31
+Brazil,Serie A,2025,24/05/2025,22:30,18:30,Fluminense,Vasco,2,1,Rodrigo Jose Pereira de Lima,11,16,4,3,0,0,-,-,Não,-,-,1.81,3.35,4.92
+Brazil,Serie A,2025,24/05/2025,22:30,18:30,Sao Paulo,Mirassol,0,2,Alex Gomes Stefano,19,11,4,1,0,0,-,-,Não,-,-,1.71,3.51,5.39
+Brazil,Serie A,2025,25/05/2025,01:00,21:00,Atletico-MG,Corinthians,0,0,Rafael Rodrigo Klein,24,18,2,4,0,0,-,-,Não,-,-,1.72,3.47,5.4
+Brazil,Serie A,2025,25/05/2025,15:00,11:00,Gremio,Bahia,1,0,Bruno Arleu de Araujo,10,13,4,4,0,0,-,-,Não,-,-,2.46,3.14,03.04
+Brazil,Serie A,2025,25/05/2025,20:00,16:00,Palmeiras,Flamengo RJ,0,2,Ramon Abatti Abel,13,18,4,2,0,0,-,-,Não,-,-,2.23,03.04,3.59
+Brazil,Serie A,2025,25/05/2025,20:00,16:00,Sport Recife,Internacional,1,1,Davi de Oliveira Lacerda,11,10,2,1,0,1,-,85',Sim,1x1,1x1,2.56,03.05,2.98
+Brazil,Serie A,2025,25/05/2025,22:30,18:30,Vitoria,Santos,0,1,Anderson Daronco,16,15,3,1,0,0,-,-,Não,-,-,2.23,03.06,3.56
+Brazil,Serie A,2025,26/05/2025,00:30,20:30,Fortaleza,Cruzeiro,0,2,Joao Vitor Gobi,14,10,4,1,1,0,83',-,Sim,0x2,0x2,2.27,3.1,3.43
+Brazil,Serie A,2025,27/05/2025,00:00,20:00,Bragantino,Juventude,1,0,Lucas Casagrande,17,22,5,4,1,0,90'+4,-,Sim,1x0,-,1.42,4.35,8.14
+Brazil,Serie A,2025,31/05/2025,22:30,18:30,Bahia,Sao Paulo,2,1,Anderson Daronco,13,11,1,2,0,0,-,-,Não,-,-,1.88,3.14,4.91
+Brazil,Serie A,2025,01/06/2025,01:00,21:00,Vasco,Bragantino,0,2,Paulo Cesar Zanovelli da Silva,13,9,1,2,0,0,-,-,Não,-,-,2.43,3.18,03.06
+Brazil,Serie A,2025,01/06/2025,15:00,11:00,Mirassol,Sport Recife,1,0,Lucas Casagrande,10,20,4,1,0,0,-,-,Não,-,-,1.87,3.34,4.55
+Brazil,Serie A,2025,01/06/2025,20:00,16:00,Juventude,Gremio,0,2,Raphael Claus,11,15,2,2,0,0,-,-,Não,-,-,3.16,3.18,2.37
+Brazil,Serie A,2025,01/06/2025,20:00,16:00,Santos,Botafogo RJ,0,1,Davi de Oliveira Lacerda,13,16,4,2,1,0,-,-,Não,-,-,2.1,3.13,3.87
+Brazil,Serie A,2025,01/06/2025,22:30,18:30,Ceara,Atletico-MG,0,1,Alex Gomes Stefano,15,16,1,4,0,1,-,90'+3,Sim,0x1,0x1,2.8,2.89,2.86
+Brazil,Serie A,2025,01/06/2025,22:30,18:30,Corinthians,Vitoria,0,0,Felipe Fernandes de Lima,8,16,2,5,0,0,-,-,Não,-,-,1.71,3.34,5.87
+Brazil,Serie A,2025,01/06/2025,22:30,18:30,Flamengo RJ,Fortaleza,5,0,Gustavo Ervino Bauermann,10,11,1,1,0,0,-,-,Não,-,-,1.35,4.88,9.4
+Brazil,Serie A,2025,01/06/2025,23:30,19:30,Cruzeiro,Palmeiras,2,1,Rodrigo Jose Pereira de Lima,17,13,3,3,0,0,-,-,Não,-,-,03.05,2.89,2.63
+Brazil,Serie A,2025,02/06/2025,00:30,20:30,Internacional,Fluminense,0,2,Lucas Paulo Torezin,13,10,1,0,0,0,-,-,Não,-,-,2.16,03.08,3.74
+Brazil,Serie A,2025,05/06/2025,00:00,20:00,Botafogo RJ,Ceara,3,2,Edina Alves Batista,12,11,1,2,0,0,-,-,Não,-,-,1.56,3.8,6.81
+Brazil,Serie A,2025,12/06/2025,23:00,19:00,Bragantino,Bahia,0,3,Lucas Paulo Torezin,3,11,2,2,1,0,11',-,Sim,0x0,0x1,2.23,03.09,3.38
+Brazil,Serie A,2025,12/06/2025,23:00,19:00,Vitoria,Cruzeiro,0,0,Alex Gomes Stefano,16,18,2,2,0,1,-,45'+2,Sim,0x0,0x0,3.36,03.03,2.28
+Brazil,Serie A,2025,12/06/2025,23:30,19:30,Fortaleza,Santos,2,3,Paulo Cesar Zanovelli da Silva,16,17,5,3,0,0,-,-,Não,-,-,2.23,3.1,3.38
+Brazil,Serie A,2025,13/06/2025,00:00,20:00,Gremio,Corinthians,1,1,Davi de Oliveira Lacerda,13,12,2,3,0,0,-,-,Não,-,-,2.32,2.89,3.45
+Brazil,Serie A,2025,13/06/2025,01:30,21:30,Atletico-MG,Internacional,2,0,Flavio Rodrigues De Souza,18,14,4,3,0,0,-,-,Não,-,-,1.89,3.26,4.32
+Brazil,Serie A,2025,13/06/2025,01:30,21:30,Sao Paulo,Vasco,1,3,Rafael Rodrigo Klein,18,17,4,2,0,0,-,-,Não,-,-,1.84,3.1,4.93
+Brazil,Serie A,2025,12/07/2025,20:30,16:30,Flamengo RJ,Sao Paulo,2,0,Wilton Pereira Sampaio,12,9,2,2,0,0,-,-,Não,-,-,1.44,3.95,8.21
+Brazil,Serie A,2025,12/07/2025,20:30,16:30,Internacional,Vitoria,1,0,Rodrigo Jose Pereira de Lima,15,14,2,1,0,0,-,-,Não,-,-,1.54,3.73,6.58
+Brazil,Serie A,2025,12/07/2025,22:30,18:30,Vasco,Botafogo RJ,0,2,Anderson Daronco,12,14,2,2,0,0,-,-,Não,-,-,3.56,3.1,2.15
+Brazil,Serie A,2025,13/07/2025,01:00,21:00,Bahia,Atletico-MG,2,1,Davi de Oliveira Lacerda,12,11,2,2,0,0,-,-,Não,-,-,2.11,03.03,3.8
+Brazil,Serie A,2025,13/07/2025,23:00,19:00,Corinthians,Bragantino,1,2,Bruno Arleu de Araujo,18,16,6,5,0,0,-,-,Não,-,-,1.94,3.17,4.19
+Brazil,Serie A,2025,14/07/2025,00:30,20:30,Cruzeiro,Gremio,4,1,Lucas Paulo Torezin,14,10,4,2,0,0,-,-,Não,-,-,1.61,3.63,5.93
+Brazil,Serie A,2025,14/07/2025,00:30,20:30,Fortaleza,Ceara,0,1,Raphael Claus,12,13,2,4,0,0,-,-,Não,-,-,2.22,2.98,3.54
+Brazil,Serie A,2025,15/07/2025,00:00,20:00,Juventude,Sport Recife,2,0,Jefferson Ferreira de Moraes,17,15,3,3,0,0,-,-,Não,-,-,2.74,2.97,2.74
+Brazil,Serie A,2025,16/07/2025,23:00,19:00,Palmeiras,Mirassol,1,1,Savio Pereira Sampaio,13,17,1,3,0,0,-,-,Não,-,-,1.39,4.38,8.26
+Brazil,Serie A,2025,16/07/2025,23:30,19:30,Ceara,Corinthians,0,1,Paulo Cesar Zanovelli da Silva,16,12,3,2,0,0,-,-,Não,-,-,2.42,2.88,3.26
+Brazil,Serie A,2025,17/07/2025,00:00,20:00,Santos,Flamengo RJ,1,0,Felipe Fernandes de Lima,16,15,2,3,0,0,-,-,Não,-,-,4.36,3.25,1.88
+Brazil,Serie A,2025,17/07/2025,01:30,21:30,Botafogo RJ,Vitoria,0,0,Lucas Casagrande,10,19,1,5,0,0,-,-,Não,-,-,1.36,4.54,8.77
+Brazil,Serie A,2025,17/07/2025,01:30,21:30,Bragantino,Sao Paulo,2,2,Alex Gomes Stefano,11,18,3,0,0,0,-,-,Não,-,-,2.4,2.85,3.32
+Brazil,Serie A,2025,17/07/2025,23:30,19:30,Fluminense,Cruzeiro,0,2,Rafael Rodrigo Klein,12,13,1,2,0,0,-,-,Não,-,-,2.33,2.88,3.44
+Brazil,Serie A,2025,19/07/2025,20:00,16:00,Fortaleza,Bahia,1,1,Wilton Pereira Sampaio,16,6,5,3,0,0,-,-,Não,-,-,2.9,3.11,2.5
+Brazil,Serie A,2025,19/07/2025,21:30,17:30,Vasco,Gremio,1,1,Felipe Fernandes de Lima,16,15,2,3,0,0,-,-,Não,-,-,2.1,3.1,3.7
+Brazil,Serie A,2025,19/07/2025,22:30,18:30,Mirassol,Santos,3,0,Matheus Delgado Candançan,16,9,1,1,1,0,90'+6,-,Sim,3x0,3x0,2.66,03.01,2.78
+Brazil,Serie A,2025,20/07/2025,01:00,21:00,Sao Paulo,Corinthians,2,0,Anderson Daronco,18,9,2,2,0,0,-,-,Não,-,-,2.17,2.8,3.96
+Brazil,Serie A,2025,20/07/2025,15:00,11:00,Internacional,Ceara,1,0,Davi de Oliveira Lacerda,14,6,1,2,0,0,-,-,Não,-,-,1.59,3.63,6.11
+Brazil,Serie A,2025,20/07/2025,20:00,16:00,Cruzeiro,Juventude,4,0,Lucas Casagrande,15,10,1,2,0,0,-,-,Não,-,-,1.31,4.97,9.77
+Brazil,Serie A,2025,20/07/2025,20:00,16:00,Vitoria,Bragantino,1,0,Rodrigo Jose Pereira de Lima,18,13,3,2,0,0,-,-,Não,-,-,2.45,2.94,3.13
+Brazil,Serie A,2025,20/07/2025,21:30,17:30,Palmeiras,Atletico-MG,3,2,Alex Gomes Stefano,22,16,2,4,0,0,-,-,Não,-,-,1.69,3.36,5.65
+Brazil,Serie A,2025,20/07/2025,21:30,17:30,Sport Recife,Botafogo RJ,0,1,Flavio Rodrigues De Souza,12,10,1,2,0,0,-,-,Não,-,-,3.71,03.03,2.14
+Brazil,Serie A,2025,20/07/2025,23:30,19:30,Flamengo RJ,Fluminense,1,0,Raphael Claus,14,6,3,1,0,0,-,-,Não,-,-,1.73,3.27,5.38
+Brazil,Serie A,2025,23/07/2025,23:00,19:00,Ceara,Mirassol,0,2,Lucas Casagrande,13,10,3,3,0,0,-,-,Não,-,-,2.12,03.08,3.72
+Brazil,Serie A,2025,23/07/2025,23:00,19:00,Fluminense,Palmeiras,1,2,Ramon Abatti Abel,13,15,1,2,0,1,-,90'+8,Sim,2x1,2x1,2.89,2.8,2.75
+Brazil,Serie A,2025,23/07/2025,23:30,19:30,Corinthians,Cruzeiro,0,0,Alex Gomes Stefano,19,17,4,2,0,0,-,-,Não,-,-,2.76,2.82,2.86
+Brazil,Serie A,2025,24/07/2025,01:30,21:30,Bragantino,Flamengo RJ,1,2,Davi de Oliveira Lacerda,11,18,1,5,0,0,-,-,Não,-,-,4.1,3.33,1.91
+Brazil,Serie A,2025,24/07/2025,01:30,21:30,Santos,Internacional,1,2,Lucas Paulo Torezin,17,11,4,2,0,0,-,-,Não,-,-,2.37,03.06,3.15
+Brazil,Serie A,2025,24/07/2025,01:30,21:30,Vitoria,Sport Recife,2,2,Lucas Canetto Bellote,12,16,4,3,0,0,-,-,Não,-,-,2.32,2.94,3.4
+Brazil,Serie A,2025,24/07/2025,23:00,19:00,Juventude,Sao Paulo,0,1,Savio Pereira Sampaio,15,12,3,2,0,0,-,-,Não,-,-,4.65,3.23,1.84
+Brazil,Serie A,2025,26/07/2025,22:30,18:30,Botafogo RJ,Corinthians,1,1,Rodrigo Jose Pereira de Lima,20,14,3,2,0,0,-,-,Não,-,-,1.59,3.5,6.46
+Brazil,Serie A,2025,26/07/2025,22:30,18:30,Fortaleza,Bragantino,3,1,Wagner do Nascimento Magalhaes,16,13,4,4,0,0,-,-,Não,-,-,1.81,3.66,4.15
+Brazil,Serie A,2025,26/07/2025,22:30,18:30,Mirassol,Vitoria,1,1,Bruno Arleu de Araujo,15,15,2,1,0,0,-,-,Não,-,-,1.69,3.43,5.42
+Brazil,Serie A,2025,26/07/2025,22:30,18:30,Sport Recife,Santos,2,2,Rafael Rodrigo Klein,15,17,3,1,0,1,-,45'+5,Sim,1x0,2x0,2.6,3.11,2.76
+Brazil,Serie A,2025,27/07/2025,01:00,21:00,Palmeiras,Gremio,1,0,Paulo Cesar Zanovelli da Silva,20,21,1,2,0,0,-,-,Não,-,-,1.4,4.42,7.96
+Brazil,Serie A,2025,27/07/2025,20:00,16:00,Cruzeiro,Ceara,1,2,Raphael Claus,8,11,0,2,0,0,-,-,Não,-,-,1.46,4,7.4
+Brazil,Serie A,2025,27/07/2025,20:00,16:00,Sao Paulo,Fluminense,3,1,Davi de Oliveira Lacerda,13,11,3,4,0,0,-,-,Não,-,-,02.05,2.97,04.08
+Brazil,Serie A,2025,27/07/2025,22:30,18:30,Bahia,Juventude,3,0,Matheus Delgado Candançan,18,15,1,2,0,1,-,77',Sim,2x0,3x0,1.26,5.44,10.64
+Brazil,Serie A,2025,27/07/2025,22:30,18:30,Internacional,Vasco,1,1,Flavio Rodrigues De Souza,10,14,1,4,0,1,-,86',Sim,0x1,1x1,1.53,3.94,6.13
+Brazil,Serie A,2025,28/07/2025,00:30,20:30,Flamengo RJ,Atletico-MG,1,0,Ramon Abatti Abel,18,14,4,4,0,0,-,-,Não,-,-,1.41,4.16,8.25
+Brazil,Serie A,2025,30/07/2025,00:30,20:30,Gremio,Fortaleza,2,1,Alex Gomes Stefano,24,26,3,6,0,0,-,-,Não,-,-,1.92,3.38,3.96
+Brazil,Serie A,2025,02/08/2025,20:00,16:00,Sport Recife,Bahia,0,0,Anderson Daronco,12,8,1,1,0,0,-,-,Não,-,-,3.16,3.1,2.32
+Brazil,Serie A,2025,02/08/2025,22:30,18:30,Mirassol,Vasco,3,2,Wilton Pereira Sampaio,12,14,0,1,0,0,-,-,Não,-,-,1.85,3.25,4.55
+Brazil,Serie A,2025,03/08/2025,01:00,21:00,Fluminense,Gremio,1,0,Lucas Paulo Torezin,11,17,1,3,0,0,-,-,Não,-,-,1.87,3.18,4.51
+Brazil,Serie A,2025,03/08/2025,20:00,16:00,Botafogo RJ,Cruzeiro,0,2,Matheus Delgado Candançan,15,7,3,2,0,0,-,-,Não,-,-,2.22,03.05,3.44
+Brazil,Serie A,2025,03/08/2025,20:00,16:00,Corinthians,Fortaleza,1,1,Felipe Fernandes de Lima,10,16,0,2,0,0,-,-,Não,-,-,02.03,03.08,3.98
+Brazil,Serie A,2025,03/08/2025,22:30,18:30,Atletico-MG,Bragantino,2,1,Bruno Arleu de Araujo,13,11,1,4,0,1,-,36',Sim,1x0,2x1,1.91,3.37,3.99
+Brazil,Serie A,2025,03/08/2025,22:30,18:30,Ceara,Flamengo RJ,1,1,Rodrigo Jose Pereira de Lima,14,12,3,2,0,0,-,-,Não,-,-,5.22,3.38,1.72
+Brazil,Serie A,2025,03/08/2025,23:30,19:30,Vitoria,Palmeiras,2,2,Davi de Oliveira Lacerda,13,21,5,2,0,0,-,-,Não,-,-,03.08,2.84,2.54
+Brazil,Serie A,2025,04/08/2025,00:30,20:30,Internacional,Sao Paulo,1,2,Alex Gomes Stefano,23,19,2,2,0,0,-,-,Não,-,-,2.45,2.94,3.11
+Brazil,Serie A,2025,05/08/2025,00:00,20:00,Santos,Juventude,3,1,Paulo Cesar Zanovelli da Silva,18,17,3,3,0,0,-,-,Não,-,-,1.38,4.67,7.68
+Brazil,Serie A,2025,09/08/2025,22:30,18:30,Bragantino,Internacional,1,3,Felipe Fernandes de Lima,7,12,1,2,0,0,-,-,Não,-,-,2.85,03.05,2.56
+Brazil,Serie A,2025,09/08/2025,22:30,18:30,Flamengo RJ,Mirassol,2,1,Paulo Cesar Zanovelli da Silva,23,13,1,1,0,0,-,-,Não,-,-,1.3,05.06,9.94
+Brazil,Serie A,2025,09/08/2025,22:30,18:30,Sao Paulo,Vitoria,2,0,Bruno Arleu de Araujo,16,10,3,3,0,0,-,-,Não,-,-,1.71,3.32,5.43
+Brazil,Serie A,2025,10/08/2025,00:30,20:30,Fortaleza,Botafogo RJ,0,5,Anderson Daronco,8,12,2,0,1,0,6',-,Sim,0x0,0x5,2.52,03.04,2.91
+Brazil,Serie A,2025,10/08/2025,01:00,21:00,Bahia,Fluminense,3,3,Jefferson Ferreira de Moraes,17,13,2,2,0,1,-,90'+6,Sim,3x3,3x3,1.64,3.56,5.63
+Brazil,Serie A,2025,10/08/2025,20:00,16:00,Palmeiras,Ceara,2,1,Bruno Arleu de Araujo,14,15,4,2,0,0,-,-,Não,-,-,1.38,4.32,8.82
+Brazil,Serie A,2025,10/08/2025,20:00,16:00,Vasco,Atletico-MG,1,1,Davi de Oliveira Lacerda,10,9,2,1,0,0,-,-,Não,-,-,2.73,2.94,2.76
+Brazil,Serie A,2025,10/08/2025,22:30,18:30,Cruzeiro,Santos,1,2,Wilton Pereira Sampaio,17,12,5,3,0,0,-,-,Não,-,-,1.52,04.08,5.98
+Brazil,Serie A,2025,11/08/2025,00:30,20:30,Gremio,Sport Recife,0,1,Yuri Elino Ferreira Da Cruz,10,19,2,0,0,0,-,-,Não,-,-,1.81,3.38,4.49
+Brazil,Serie A,2025,12/08/2025,00:00,20:00,Juventude,Corinthians,2,1,Lucas Casagrande,22,12,5,5,0,1,-,85',Sim,2x0,2x1,04.05,3.16,1.98
+Brazil,Serie A,2025,16/08/2025,20:00,16:00,Ceara,Bragantino,1,0,Yuri Elino Ferreira Da Cruz,23,16,3,4,0,0,-,-,Não,-,-,2.15,03.05,3.59
+Brazil,Serie A,2025,16/08/2025,20:00,16:00,Fluminense,Fortaleza,2,1,Rafael Rodrigo Klein,10,18,2,4,0,0,-,-,Não,-,-,1.73,3.51,4.81
+Brazil,Serie A,2025,16/08/2025,22:30,18:30,Sport Recife,Sao Paulo,2,2,Lucas Paulo Torezin,17,19,4,1,0,0,-,-,Não,-,-,02.02,3.18,3.85
+Brazil,Serie A,2025,16/08/2025,22:30,18:30,Vitoria,Juventude,2,2,Raphael Claus,9,14,1,3,1,1,66',10',Sim,0x0,2x2,1.72,3.53,4.93
+Brazil,Serie A,2025,17/08/2025,01:00,21:00,Corinthians,Bahia,1,2,Paulo Cesar Zanovelli da Silva,15,21,2,4,0,0,-,-,Não,-,-,2.56,2.99,2.91
+Brazil,Serie A,2025,17/08/2025,20:00,16:00,Atletico-MG,Gremio,1,3,Alex Gomes Stefano,19,12,2,2,2,2,76' e 90'+3,65' e 90'+3,Sim,1x2,1x3,1.65,3.63,5.34
+Brazil,Serie A,2025,17/08/2025,20:00,16:00,Santos,Vasco,0,6,Ramon Abatti Abel,11,12,2,4,0,0,-,-,Não,-,-,1.82,3.57,4.18
+Brazil,Serie A,2025,17/08/2025,22:30,18:30,Internacional,Flamengo RJ,1,3,Rodrigo Jose Pereira de Lima,12,8,2,0,0,0,-,-,Não,-,-,4.55,3.3,1.83
+Brazil,Serie A,2025,18/08/2025,00:30,20:30,Botafogo RJ,Palmeiras,0,1,Davi de Oliveira Lacerda,7,6,1,2,0,0,-,-,Não,-,-,2.88,2.93,2.64
+Brazil,Serie A,2025,19/08/2025,00:00,20:00,Mirassol,Cruzeiro,1,1,Bruno Arleu de Araujo,16,13,3,4,0,0,-,-,Não,-,-,2.74,3.17,2.56
+Brazil,Serie A,2025,20/08/2025,23:00,19:00,Juventude,Vasco,2,0,Matheus Delgado Candançan,6,11,2,1,0,0,-,-,Não,-,-,3.77,3.36,1.97
+Brazil,Serie A,2025,23/08/2025,20:00,16:00,Bragantino,Fluminense,4,2,Lucas Paulo Torezin,18,9,3,4,0,0,-,-,Não,-,-,2.48,03.03,2.95
+Brazil,Serie A,2025,23/08/2025,22:30,18:30,Cruzeiro,Internacional,2,1,Matheus Delgado Candançan,10,18,1,5,0,1,-,90'+1,Sim,2x1,2x1,1.78,3.37,4.75
+Brazil,Serie A,2025,24/08/2025,01:00,21:00,Gremio,Ceara,0,0,Davi de Oliveira Lacerda,14,12,2,2,0,0,-,-,Não,-,-,02.03,03.06,3.97
+Brazil,Serie A,2025,24/08/2025,20:00,16:00,Bahia,Santos,2,0,Rafael Rodrigo Klein,12,17,2,1,0,0,-,-,Não,-,-,1.62,3.83,5.21
+Brazil,Serie A,2025,24/08/2025,20:00,16:00,Vasco,Corinthians,2,3,Rodrigo Jose Pereira de Lima,16,20,3,2,0,0,-,-,Não,-,-,02.04,3.15,3.82
+Brazil,Serie A,2025,24/08/2025,22:30,18:30,Fortaleza,Mirassol,0,1,Bruno Pereira Vasconcelos,15,13,4,2,0,0,-,-,Não,-,-,2.49,3.14,2.85
+Brazil,Serie A,2025,24/08/2025,22:30,18:30,Juventude,Botafogo RJ,1,3,Flavio Rodrigues De Souza,10,17,0,2,0,0,-,-,Não,-,-,3.74,3.27,02.02
+Brazil,Serie A,2025,25/08/2025,00:30,20:30,Sao Paulo,Atletico-MG,2,0,Lucas Casagrande,20,17,1,2,0,0,-,-,Não,-,-,1.74,3.31,5.15
+Brazil,Serie A,2025,25/08/2025,23:00,19:00,Palmeiras,Sport Recife,3,0,Paulo Cesar Zanovelli da Silva,14,12,0,2,0,0,-,-,Não,-,-,1.29,5.19,9.98
+Brazil,Serie A,2025,26/08/2025,01:00,21:00,Flamengo RJ,Vitoria,8,0,Felipe Fernandes de Lima,17,6,0,0,0,0,-,-,Não,-,-,1.18,6.47,15.25
+Brazil,Serie A,2025,30/08/2025,20:00,16:00,Ceara,Juventude,0,1,Afro Rocha De Carvalho Filho,17,26,0,6,0,0,-,-,Não,-,-,1.72,3.51,5
+Brazil,Serie A,2025,30/08/2025,22:30,18:30,Botafogo RJ,Bragantino,4,1,Lucas Casagrande,10,15,0,2,0,0,-,-,Não,-,-,1.67,3.78,4.93
+Brazil,Serie A,2025,31/08/2025,01:00,21:00,Cruzeiro,Sao Paulo,1,0,Anderson Daronco,11,9,2,4,0,0,-,-,Não,-,-,1.91,3.19,4.37
+Brazil,Serie A,2025,31/08/2025,20:00,16:00,Flamengo RJ,Gremio,1,1,Paulo Cesar Zanovelli da Silva,18,11,1,2,0,0,-,-,Não,-,-,1.22,5.81,13.13
+Brazil,Serie A,2025,31/08/2025,20:00,16:00,Santos,Fluminense,0,0,Wilton Pereira Sampaio,13,19,3,4,0,0,-,-,Não,-,-,2.39,3.13,03.04
+Brazil,Serie A,2025,31/08/2025,22:30,18:30,Corinthians,Palmeiras,1,1,Ramon Abatti Abel,18,16,2,3,0,0,-,-,Não,-,-,3.62,03.04,2.16
+Brazil,Serie A,2025,31/08/2025,22:30,18:30,Mirassol,Bahia,5,1,Marcelo de Lima Henrique,13,7,0,0,0,0,-,-,Não,-,-,2.26,3.22,3.16
+Brazil,Serie A,2025,31/08/2025,22:30,18:30,Vitoria,Atletico-MG,1,0,Alex Gomes Stefano,20,13,2,3,0,0,-,-,Não,-,-,3.25,03.01,2.34
+Brazil,Serie A,2025,01/09/2025,00:30,20:30,Internacional,Fortaleza,2,1,Joao Vitor Gobi,16,14,1,2,0,0,-,-,Não,-,-,1.62,3.81,5.36
+Brazil,Serie A,2025,01/09/2025,00:30,20:30,Sport Recife,Vasco,2,3,Raphael Claus,9,10,2,1,0,0,-,-,Não,-,-,2.41,3.22,2.92
+Brazil,Serie A,2025,13/09/2025,20:00,16:00,Fortaleza,Vitoria,2,0,Edina Alves Batista,14,15,3,6,0,0,-,-,Não,-,-,1.83,3.42,4.39
+Brazil,Serie A,2025,13/09/2025,20:00,16:00,Gremio,Mirassol,0,1,Lucas Casagrande,13,15,2,2,0,0,-,-,Não,-,-,2.28,3.1,3.25
+Brazil,Serie A,2025,13/09/2025,22:30,18:30,Palmeiras,Internacional,4,1,Lucas Paulo Torezin,10,16,1,2,0,0,-,-,Não,-,-,1.44,4.14,7.46
+Brazil,Serie A,2025,14/09/2025,01:00,21:00,Fluminense,Corinthians,0,1,Felipe Fernandes de Lima,16,19,1,5,0,0,-,-,Não,-,-,2.34,2.87,3.41
+Brazil,Serie A,2025,14/09/2025,15:00,11:00,Bragantino,Sport Recife,1,1,Anderson Daronco,11,11,2,3,0,0,-,-,Não,-,-,1.7,3.63,4.96
+Brazil,Serie A,2025,14/09/2025,20:00,16:00,Atletico-MG,Santos,1,1,Bruno Arleu de Araujo,12,15,2,4,0,1,-,55',Sim,0x0,1x1,1.9,3.38,04.07
+Brazil,Serie A,2025,14/09/2025,20:00,16:00,Juventude,Flamengo RJ,0,2,Raphael Claus,16,12,2,2,0,0,-,-,Não,-,-,8.67,4.63,1.34
+Brazil,Serie A,2025,14/09/2025,21:30,17:30,Sao Paulo,Botafogo RJ,1,0,Wilton Pereira Sampaio,11,14,3,1,0,0,-,-,Não,-,-,2.17,2.95,3.71
+Brazil,Serie A,2025,15/09/2025,00:30,20:30,Vasco,Ceara,2,2,Matheus Delgado Candançan,19,10,3,2,0,1,-,72',Sim,1x1,2x2,1.94,3.23,04.08
+Brazil,Serie A,2025,16/09/2025,00:00,20:00,Bahia,Cruzeiro,1,2,Flavio Rodrigues De Souza,11,12,1,3,0,0,-,-,Não,-,-,2.89,03.07,2.52
+Brazil,Serie A,2025,17/09/2025,23:30,19:30,Botafogo RJ,Mirassol,3,3,Bruno Pereira Vasconcelos,18,11,4,1,0,0,-,-,Não,-,-,1.71,3.57,4.89
+Brazil,Serie A,2025,20/09/2025,20:00,16:00,Vitoria,Fluminense,0,1,Matheus Delgado Candançan,17,14,3,3,1,1,25',45'+3,Sim,0x0,0x1,2.6,2.99,2.86
+Brazil,Serie A,2025,20/09/2025,22:30,18:30,Botafogo RJ,Atletico-MG,1,0,Flavio Rodrigues De Souza,14,9,5,2,1,0,45'+1,-,Sim,0x0,1x0,1.73,3.38,05.09
+Brazil,Serie A,2025,20/09/2025,22:30,18:30,Ceara,Bahia,1,1,Lucas Casagrande,13,10,3,1,0,0,-,-,Não,-,-,2.71,2.93,2.77
+Brazil,Serie A,2025,21/09/2025,01:00,21:00,Palmeiras,Fortaleza,4,1,Alex Gomes Stefano,11,15,1,1,0,0,-,-,Não,-,-,1.4,4.44,7.9
+Brazil,Serie A,2025,21/09/2025,20:00,16:00,Mirassol,Juventude,2,0,Davi de Oliveira Lacerda,10,10,1,2,0,0,-,-,Não,-,-,1.52,4,6.14
+Brazil,Serie A,2025,21/09/2025,21:30,17:30,Flamengo RJ,Vasco,1,1,Rafael Rodrigo Klein,15,12,2,3,0,0,-,-,Não,-,-,1.32,4.88,9.29
+Brazil,Serie A,2025,21/09/2025,21:30,17:30,Internacional,Gremio,2,3,Marcelo de Lima Henrique,18,15,5,2,1,1,90',73',Sim,3x2,3x2,1.84,3.43,4.29
+Brazil,Serie A,2025,21/09/2025,21:30,17:30,Sport Recife,Corinthians,1,0,Savio Pereira Sampaio,17,9,6,1,0,0,-,-,Não,-,-,2.95,2.97,2.54
+Brazil,Serie A,2025,22/09/2025,00:30,20:30,Cruzeiro,Bragantino,2,1,Lucas Paulo Torezin,11,18,6,7,0,0,-,-,Não,-,-,1.48,4.14,6.71
+Brazil,Serie A,2025,22/09/2025,00:30,20:30,Santos,Sao Paulo,1,0,Rodrigo Jose Pereira de Lima,16,17,3,3,0,0,-,-,Não,-,-,2.22,03.04,3.43
+Brazil,Serie A,2025,24/09/2025,23:30,19:30,Gremio,Botafogo RJ,1,1,Lucas Paulo Torezin,7,17,1,4,0,1,-,90'+9,Sim,1x1,1x1,2.61,3,2.84
+Brazil,Serie A,2025,24/09/2025,23:30,19:30,Vasco,Bahia,3,1,Joao Vitor Gobi,20,13,1,2,0,1,-,36',Sim,0x1,3x1,2.27,3.24,3.15
+Brazil,Serie A,2025,27/09/2025,20:00,16:00,Fortaleza,Sport Recife,1,0,Davi de Oliveira Lacerda,17,16,2,3,0,0,-,-,Não,-,-,1.79,3.5,4.4
+Brazil,Serie A,2025,27/09/2025,22:30,18:30,Juventude,Internacional,1,1,Matheus Delgado Candançan,20,18,2,2,0,0,-,-,Não,-,-,3.27,3.15,2.24
+Brazil,Serie A,2025,27/09/2025,22:30,18:30,Vasco,Cruzeiro,2,0,Rodrigo Jose Pereira de Lima,13,13,2,1,0,0,-,-,Não,-,-,2.84,03.07,2.55
+Brazil,Serie A,2025,28/09/2025,01:00,21:00,Atletico-MG,Mirassol,1,0,Rafael Rodrigo Klein,11,8,4,3,1,0,44',-,Sim,1x0,1x0,2.15,3.11,3.54
+Brazil,Serie A,2025,28/09/2025,15:00,11:00,Gremio,Vitoria,3,1,Raphael Claus,8,13,1,4,0,0,-,-,Não,-,-,1.85,3.38,4.26
+Brazil,Serie A,2025,28/09/2025,20:00,16:00,Bahia,Palmeiras,1,0,Anderson Daronco,13,18,5,2,0,0,-,-,Não,-,-,04.03,3.35,1.92
+Brazil,Serie A,2025,28/09/2025,20:00,16:00,Fluminense,Botafogo RJ,2,0,Ramon Abatti Abel,10,13,2,2,0,0,-,-,Não,-,-,02.09,03.09,3.8
+Brazil,Serie A,2025,28/09/2025,22:30,18:30,Bragantino,Santos,2,2,Flavio Rodrigues De Souza,10,11,3,2,0,0,-,-,Não,-,-,2.22,3.15,3.31
+Brazil,Serie A,2025,29/09/2025,00:30,20:30,Corinthians,Flamengo RJ,1,2,Wilton Pereira Sampaio,16,21,3,5,0,0,-,-,Não,-,-,4.63,3.12,1.87
+Brazil,Serie A,2025,30/09/2025,00:00,20:00,Sao Paulo,Ceara,0,1,Bruno Arleu de Araujo,14,18,2,3,0,0,-,-,Não,-,-,1.66,3.39,5.88
+Brazil,Serie A,2025,01/10/2025,01:30,21:30,Atletico-MG,Juventude,0,0,Lucas Casagrande,12,16,3,4,0,0,-,-,Não,-,-,1.6,3.59,5.99
+Brazil,Serie A,2025,01/10/2025,23:00,19:00,Mirassol,Bragantino,1,1,Wilton Pereira Sampaio,13,18,2,3,0,0,-,-,Não,-,-,1.75,3.56,4.62
+Brazil,Serie A,2025,01/10/2025,23:00,19:00,Palmeiras,Vasco,3,0,Murilo Ugolini Klein,7,15,1,1,0,0,-,-,Não,-,-,1.32,4.99,8.84
+Brazil,Serie A,2025,01/10/2025,23:00,19:00,Sport Recife,Fluminense,2,2,Raphael Claus,15,13,3,1,0,0,-,-,Não,-,-,3.46,3.1,2.19
+Brazil,Serie A,2025,01/10/2025,23:30,19:30,Internacional,Corinthians,1,1,Rodrigo Jose Pereira de Lima,21,16,4,5,0,0,-,-,Não,-,-,02.01,2.95,4.27
+Brazil,Serie A,2025,02/10/2025,01:30,21:30,Botafogo RJ,Bahia,2,1,Felipe Fernandes de Lima,19,10,4,6,0,1,-,59',Sim,2x1,2x1,1.86,3.49,4.14
+Brazil,Serie A,2025,02/10/2025,01:30,21:30,Santos,Gremio,1,1,Paulo Cesar Zanovelli da Silva,20,18,3,3,0,0,-,-,Não,-,-,1.72,3.51,4.88
+Brazil,Serie A,2025,02/10/2025,23:00,19:00,Vitoria,Ceara,1,0,Matheus Delgado Candançan,14,15,4,1,0,0,-,-,Não,-,-,2.32,2.98,3.29
+Brazil,Serie A,2025,02/10/2025,23:30,19:30,Fortaleza,Sao Paulo,0,2,Anderson Daronco,12,9,3,0,0,1,-,22',Sim,0x1,0x2,2.65,2.94,2.84
+Brazil,Serie A,2025,03/10/2025,00:30,20:30,Flamengo RJ,Cruzeiro,0,0,Ramon Abatti Abel,16,19,3,7,0,1,-,83',Sim,0x0,0x0,1.53,3.91,6.11
+Brazil,Serie A,2025,04/10/2025,22:30,18:30,Bragantino,Gremio,1,0,Lucas Casagrande,18,7,3,4,0,1,-,43',Sim,0x0,1x0,1.9,3.4,04.03
+Brazil,Serie A,2025,04/10/2025,22:30,18:30,Fluminense,Atletico-MG,3,0,Davi de Oliveira Lacerda,12,14,2,4,0,0,-,-,Não,-,-,1.92,3.11,4.4
+Brazil,Serie A,2025,04/10/2025,22:30,18:30,Internacional,Botafogo RJ,2,0,Flavio Rodrigues De Souza,15,11,2,2,0,0,-,-,Não,-,-,2.29,3.18,3.15
+Brazil,Serie A,2025,05/10/2025,01:00,21:00,Corinthians,Mirassol,3,0,Felipe Fernandes de Lima,19,14,3,3,0,0,-,-,Não,-,-,02.01,3.21,3.86
+Brazil,Serie A,2025,05/10/2025,20:00,16:00,Sao Paulo,Palmeiras,2,3,Ramon Abatti Abel,12,12,3,6,0,0,-,-,Não,-,-,3.42,2.89,2.32
+Brazil,Serie A,2025,05/10/2025,20:00,16:00,Vasco,Vitoria,4,3,Fernando Antonio Mendes de Salles Nascimento Filho,11,14,1,3,0,1,-,70',Sim,3x2,4x3,1.65,3.73,5.19
+Brazil,Serie A,2025,05/10/2025,22:30,18:30,Bahia,Flamengo RJ,1,0,Rodrigo Jose Pereira de Lima,22,14,3,4,0,2,-,13' e 78',Sim,0x0,1x0,5.37,3.63,1.65
+Brazil,Serie A,2025,05/10/2025,22:30,18:30,Juventude,Fortaleza,1,2,Lucas Paulo Torezin,14,15,2,3,1,0,90'+7,-,Sim,1x2,1x2,2.67,3.1,2.7
+Brazil,Serie A,2025,06/10/2025,00:30,20:30,Ceara,Santos,3,0,Anderson Daronco,16,16,1,3,0,0,-,-,Não,-,-,2.43,2.93,3.16
+Brazil,Serie A,2025,06/10/2025,00:30,20:30,Cruzeiro,Sport Recife,1,1,Jefferson Ferreira de Moraes,11,15,1,2,0,0,-,-,Não,-,-,1.52,4,6.23
+Brazil,Serie A,2025,08/10/2025,23:00,19:00,Atletico-MG,Sport Recife,3,1,Alex Gomes Stefano,13,8,4,2,0,0,-,-,Não,-,-,1.72,3.5,4.9
+Brazil,Serie A,2025,09/10/2025,01:00,21:00,Mirassol,Fluminense,2,1,Rodrigo Jose Pereira de Lima,13,13,3,4,0,0,-,-,Não,-,-,2.76,2.99,2.67
+Brazil,Serie A,2025,11/10/2025,23:00,19:00,Palmeiras,Juventude,4,1,Davi de Oliveira Lacerda,9,15,1,2,0,0,-,-,Não,-,-,1.21,5.86,13.47
+Brazil,Serie A,2025,15/10/2025,23:00,19:00,Palmeiras,Bragantino,5,1,Raphael Claus,8,14,2,4,0,0,-,-,Não,-,-,4.81,3.78,1.63
+Brazil,Serie A,2025,15/10/2025,23:30,19:30,Botafogo RJ,Flamengo RJ,0,3,Alex Gomes Stefano,21,17,5,5,0,0,-,-,Não,-,-,2.12,3.73,2.84
+Brazil,Serie A,2025,16/10/2025,00:00,20:00,Mirassol,Internacional,3,1,Bruno Arleu de Araujo,12,18,3,2,0,0,-,-,Não,-,-,3.25,03.03,2.32
+Brazil,Serie A,2025,16/10/2025,00:00,20:00,Sport Recife,Ceara,1,1,Savio Pereira Sampaio,13,17,4,2,0,0,-,-,Não,-,-,2.35,3.29,2.95
+Brazil,Serie A,2025,16/10/2025,01:30,21:30,Atletico-MG,Cruzeiro,1,1,Paulo Cesar Zanovelli da Silva,20,15,4,4,0,1,-,55',Sim,1x1,1x1,02.06,3.1,3.8
+Brazil,Serie A,2025,16/10/2025,01:30,21:30,Fortaleza,Vasco,0,2,Wilton Pereira Sampaio,16,9,5,1,2,1,90'+5 e 90'+6,40',Sim,0x0,0x2,2.21,3.17,3.32
+Brazil,Serie A,2025,16/10/2025,01:30,21:30,Santos,Corinthians,3,1,Flavio Rodrigues De Souza,22,12,3,5,0,0,-,-,Não,-,-,2.36,3.1,3.12
+Brazil,Serie A,2025,16/10/2025,23:00,19:00,Gremio,Sao Paulo,2,0,Davi de Oliveira Lacerda,11,16,1,3,0,0,-,-,Não,-,-,4.25,3.15,1.94
+Brazil,Serie A,2025,17/10/2025,01:30,21:30,Fluminense,Juventude,1,0,Jefferson Ferreira de Moraes,12,18,2,6,0,1,-,90'+12,Sim,1x0,1x0,1.38,4.69,7.37
+Brazil,Serie A,2025,17/10/2025,01:30,21:30,Vitoria,Bahia,2,1,Anderson Daronco,20,8,7,2,1,0,90'+7,-,Sim,2x1,2x1,1.32,4.79,9.58
+Brazil,Serie A,2025,18/10/2025,22:30,18:30,Corinthians,Atletico-MG,1,0,Alex Gomes Stefano,15,20,3,3,0,0,-,-,Não,-,-,1.91,3.17,4.37
+Brazil,Serie A,2025,19/10/2025,01:00,21:00,Cruzeiro,Fortaleza,1,0,Rodrigo Jose Pereira de Lima,13,17,1,5,0,0,-,-,Não,-,-,1.56,04.08,5.46
+Brazil,Serie A,2025,19/10/2025,20:00,16:00,Flamengo RJ,Palmeiras,3,2,Wilton Pereira Sampaio,13,16,4,2,0,1,-,90'+6,Sim,3x2,3x2,1.86,3.33,4.31
+Brazil,Serie A,2025,19/10/2025,22:30,18:30,Ceara,Botafogo RJ,0,2,Davi de Oliveira Lacerda,11,14,2,3,0,0,-,-,Não,-,-,2.42,2.97,3.14
+Brazil,Serie A,2025,19/10/2025,22:30,18:30,Internacional,Sport Recife,2,0,Lucas Paulo Torezin,18,13,3,2,0,0,-,-,Não,-,-,1.61,3.84,5.33
+Brazil,Serie A,2025,19/10/2025,22:30,18:30,Mirassol,Sao Paulo,3,0,Matheus Delgado Candançan,11,17,3,3,0,0,-,-,Não,-,-,2.53,03.04,2.92
+Brazil,Serie A,2025,20/10/2025,00:30,20:30,Bahia,Gremio,4,0,Raphael Claus,9,12,2,1,0,0,-,-,Não,-,-,1.73,3.62,4.65
+Brazil,Serie A,2025,20/10/2025,23:00,19:00,Juventude,Bragantino,1,0,Felipe Fernandes de Lima,24,22,3,1,0,0,-,-,Não,-,-,3.11,3.16,2.33
+Brazil,Serie A,2025,20/10/2025,23:30,19:30,Vasco,Fluminense,2,0,Wagner do Nascimento Magalhaes,15,19,1,1,0,0,-,-,Não,-,-,3.26,3.1,2.26
+Brazil,Serie A,2025,21/10/2025,01:30,21:30,Santos,Vitoria,0,1,Rafael Rodrigo Klein,13,18,2,4,0,0,-,-,Não,-,-,1.56,3.88,5.97
+Brazil,Serie A,2025,22/10/2025,23:00,19:00,Bahia,Internacional,1,0,Flavio Rodrigues De Souza,9,13,1,2,0,1,-,72',Sim,1x0,1x0,1.75,3.52,4.68
+Brazil,Serie A,2025,25/10/2025,20:00,16:00,Atletico-MG,Ceara,1,0,Bruno Arleu de Araujo,9,13,3,0,0,0,-,-,Não,-,-,1.85,3.31,4.45
+Brazil,Serie A,2025,25/10/2025,20:00,16:00,Vitoria,Corinthians,0,1,Wilton Pereira Sampaio,23,13,6,5,0,1,-,79',Sim,0x0,0x1,2.67,03.02,2.76
+Brazil,Serie A,2025,25/10/2025,21:30,17:30,Fluminense,Internacional,1,0,Raphael Claus,13,10,0,2,0,0,-,-,Não,-,-,1.68,3.53,5.32
+Brazil,Serie A,2025,25/10/2025,22:30,18:30,Sport Recife,Mirassol,1,2,Jefferson Ferreira de Moraes,6,9,1,2,1,0,24',-,Sim,0x0,2x1,2.73,3.25,2.54
+Brazil,Serie A,2025,25/10/2025,23:30,19:30,Fortaleza,Flamengo RJ,1,0,Davi de Oliveira Lacerda,10,13,1,1,0,0,-,-,Não,-,-,5.26,3.71,1.64
+Brazil,Serie A,2025,26/10/2025,01:30,21:30,Sao Paulo,Bahia,2,0,Lucas Paulo Torezin,10,10,2,4,0,0,-,-,Não,-,-,1.77,3.6,04.06
+Brazil,Serie A,2025,26/10/2025,19:00,15:00,Botafogo RJ,Santos,2,2,Rodrigo Jose Pereira de Lima,14,8,4,4,0,0,-,-,Não,-,-,1.65,3.71,5.23
+Brazil,Serie A,2025,26/10/2025,19:00,15:00,Gremio,Juventude,3,1,Alex Gomes Stefano,11,32,3,8,0,1,70',-,Sim,3x0,3x1,1.75,3.54,4.61
+Brazil,Serie A,2025,26/10/2025,21:30,17:30,Bragantino,Vasco,0,3,Savio Pereira Sampaio,11,7,1,1,0,0,-,-,Não,-,-,02.08,3.42,3.41
+Brazil,Serie A,2025,26/10/2025,23:30,19:30,Palmeiras,Cruzeiro,0,0,Rafael Rodrigo Klein,24,16,2,6,0,1,-,71',Sim,0x0,0x0,1.65,3.72,5.18
+Brazil,Serie A,2025,29/10/2025,22:00,18:00,Fluminense,Ceara,1,0,Flavio Rodrigues De Souza,17,10,5,3,0,0,-,-,Não,-,-,1.55,3.78,6.33
+Brazil,Serie A,2025,01/11/2025,19:00,15:00,Cruzeiro,Vitoria,3,1,Jefferson Ferreira de Moraes,15,11,4,4,0,0,-,-,Não,-,-,1.4,4.41,7.94
+Brazil,Serie A,2025,01/11/2025,19:00,15:00,Santos,Fortaleza,1,1,Anderson Daronco,15,22,4,2,0,0,-,-,Não,-,-,1.67,3.76,4.94
+Brazil,Serie A,2025,01/11/2025,21:00,17:00,Mirassol,Botafogo RJ,0,0,Jonathan Benkenstein Pinheiro,11,22,1,4,0,0,-,-,Não,-,-,2.31,3.3,03.02
+Brazil,Serie A,2025,02/11/2025,00:00,20:00,Flamengo RJ,Sport Recife,3,0,Fernando Antonio Mendes de Salles Nascimento Filho,16,15,3,2,1,0,86',-,Sim,3x0,3x0,1.21,6.23,12.84
+Brazil,Serie A,2025,02/11/2025,19:00,15:00,Bahia,Bragantino,2,1,Marcelo de Lima Henrique,11,20,3,5,0,0,-,-,Não,-,-,1.64,3.73,5.3
+Brazil,Serie A,2025,02/11/2025,19:00,15:00,Ceara,Fluminense,2,0,Lucas Paulo Torezin,14,15,3,0,0,1,-,59',Sim,1x0,2x0,3,2.9,2.56
+Brazil,Serie A,2025,02/11/2025,19:00,15:00,Corinthians,Gremio,2,0,Davi de Oliveira Lacerda,14,8,3,3,0,0,-,-,Não,-,-,1.63,3.73,5.36
+Brazil,Serie A,2025,02/11/2025,21:30,17:30,Internacional,Atletico-MG,0,0,Alex Gomes Stefano,18,10,7,4,0,1,-,16',Sim,0x0,0x0,02.01,3.15,3.93
+Brazil,Serie A,2025,02/11/2025,21:30,17:30,Juventude,Palmeiras,0,2,Savio Pereira Sampaio,16,15,2,1,0,0,-,-,Não,-,-,06.03,3.67,1.59
+Brazil,Serie A,2025,02/11/2025,23:30,19:30,Vasco,Sao Paulo,0,2,Wilton Pereira Sampaio,11,15,2,2,0,0,-,-,Não,-,-,2.23,03.04,3.44
+Brazil,Serie A,2025,05/11/2025,22:00,18:00,Bragantino,Corinthians,2,1,Edina Alves Batista,20,15,7,5,0,2,-,60' e 90'+8,Sim,1x0,2x1,2.73,3.14,2.62
+Brazil,Serie A,2025,05/11/2025,22:00,18:00,Sport Recife,Juventude,0,2,Andre Luiz Skettino Policarpo Bento,21,19,3,3,0,0,-,-,Não,-,-,1.89,3.48,3.98
+Brazil,Serie A,2025,05/11/2025,22:00,18:00,Vitoria,Internacional,1,0,Felipe Fernandes de Lima,13,21,3,4,0,0,-,-,Não,-,-,2.46,3.1,2.94
+Brazil,Serie A,2025,05/11/2025,22:30,18:30,Botafogo RJ,Vasco,3,0,Bruno Arleu de Araujo,10,11,3,2,0,0,-,-,Não,-,-,1.74,3.71,4.47
+Brazil,Serie A,2025,05/11/2025,23:00,19:00,Atletico-MG,Bahia,3,0,Davi de Oliveira Lacerda,6,8,2,2,0,1,-,52',Sim,0x0,3x0,2.11,3.17,3.56
+Brazil,Serie A,2025,05/11/2025,23:00,19:00,Gremio,Cruzeiro,0,1,Lucas Paulo Torezin,15,17,2,3,0,0,-,-,Não,-,-,3.27,3.24,2.19
+Brazil,Serie A,2025,06/11/2025,00:30,20:30,Sao Paulo,Flamengo RJ,2,2,Rodrigo Jose Pereira de Lima,14,18,2,3,0,1,-,67',Sim,1x2,2x2,4.45,3.13,1.91
+Brazil,Serie A,2025,06/11/2025,22:30,18:30,Fluminense,Mirassol,1,0,Anderson Daronco,24,10,4,2,0,0,-,-,Não,-,-,1.79,3.34,4.78
+Brazil,Serie A,2025,06/11/2025,23:00,19:00,Ceara,Fortaleza,1,1,Wilton Pereira Sampaio,17,12,3,3,0,0,-,-,Não,-,-,2.28,03.06,3.3
+Brazil,Serie A,2025,07/11/2025,00:30,20:30,Palmeiras,Santos,2,0,Raphael Claus,11,8,1,2,0,0,-,-,Não,-,-,1.33,4.94,8.98
+Brazil,Serie A,2025,08/11/2025,19:00,15:00,Sport Recife,Atletico-MG,2,4,Matheus Delgado Candançan,12,6,1,0,0,0,-,-,Não,-,-,03.08,3.11,2.36
+Brazil,Serie A,2025,08/11/2025,21:00,17:00,Vasco,Juventude,1,3,Fernando Antonio Mendes de Salles Nascimento Filho,18,15,4,4,1,0,88',-,Sim,1x2,1x3,1.5,4.13,6.34
+Brazil,Serie A,2025,08/11/2025,21:30,17:30,Internacional,Bahia,2,2,Lucas Paulo Torezin,22,15,4,2,0,0,-,-,Não,-,-,2.26,3.14,3.24
+Brazil,Serie A,2025,09/11/2025,00:00,20:00,Sao Paulo,Bragantino,0,1,Bruno Arleu de Araujo,9,20,1,2,0,0,-,-,Não,-,-,1.67,3.54,5.39
+Brazil,Serie A,2025,09/11/2025,19:00,15:00,Corinthians,Ceara,0,1,Felipe Fernandes de Lima,7,20,1,7,0,0,-,-,Não,-,-,1.76,3.31,05.09
+Brazil,Serie A,2025,09/11/2025,19:00,15:00,Cruzeiro,Fluminense,0,0,Rodrigo Jose Pereira de Lima,16,16,6,3,0,0,-,-,Não,-,-,1.93,3.21,4.19
+Brazil,Serie A,2025,09/11/2025,19:00,15:00,Vitoria,Botafogo RJ,0,0,Anderson Daronco,16,21,1,1,0,0,-,-,Não,-,-,03.09,3.13,2.34
+Brazil,Serie A,2025,09/11/2025,21:30,17:30,Flamengo RJ,Santos,3,2,Savio Pereira Sampaio,14,12,2,2,0,0,-,-,Não,-,-,1.34,4.78,09.03
+Brazil,Serie A,2025,09/11/2025,23:30,19:30,Fortaleza,Gremio,2,2,Jefferson Ferreira de Moraes,15,18,4,4,1,0,90'+10,-,Sim,2x2,2x2,1.98,3.36,3.74
+Brazil,Serie A,2025,09/11/2025,23:30,19:30,Mirassol,Palmeiras,2,1,Flavio Rodrigues De Souza,15,17,3,2,0,0,-,-,Não,-,-,3.77,3.28,2
+Brazil,Serie A,2025,12/11/2025,23:30,19:30,Atletico-MG,Fortaleza,3,3,Savio Pereira Sampaio,15,10,2,1,0,0,-,-,Não,-,-,1.55,3.93,5.93
+Brazil,Serie A,2025,15/11/2025,21:30,17:30,Sport Recife,Flamengo RJ,1,5,Rafael Rodrigo Klein,5,5,5,3,2,0,37' e 42',-,Sim,1x0,1x5,7.24,4.49,1.42
+Brazil,Serie A,2025,16/11/2025,00:00,20:00,Santos,Palmeiras,1,0,Raphael Claus,11,15,1,1,0,0,-,-,Não,-,-,2.77,3.18,2.54
+Brazil,Serie A,2025,16/11/2025,22:00,18:00,Bragantino,Atletico-MG,2,0,Marcelo de Lima Henrique,14,12,4,1,0,1,-,75',Sim,2x0,2x0,2.24,3.13,3.29
+Brazil,Serie A,2025,18/11/2025,23:30,19:30,Botafogo RJ,Sport Recife,3,2,Bruno Pereira Vasconcelos,11,7,2,4,0,0,-,-,Não,-,-,1.18,6.8,13.34
+Brazil,Serie A,2025,19/11/2025,22:30,18:30,Palmeiras,Vitoria,0,0,Lucas Paulo Torezin,16,14,2,4,1,0,90'+9,-,Sim,0x0,0x0,1.32,4.92,9.13
+Brazil,Serie A,2025,20/11/2025,00:30,20:30,Fluminense,Flamengo RJ,2,1,Davi de Oliveira Lacerda,14,12,4,3,0,0,-,-,Não,-,-,3.68,2.97,2.17
+Brazil,Serie A,2025,20/11/2025,00:30,20:30,Gremio,Vasco,2,0,Raphael Claus,12,17,4,3,0,0,-,-,Não,-,-,1.82,3.73,3.94
+Brazil,Serie A,2025,20/11/2025,00:30,20:30,Santos,Mirassol,1,1,Matheus Delgado Candançan,13,12,1,2,0,0,-,-,Não,-,-,1.83,3.49,4.26
+Brazil,Serie A,2025,20/11/2025,19:00,15:00,Juventude,Cruzeiro,3,3,Savio Pereira Sampaio,19,13,4,1,0,0,-,-,Não,-,-,3.6,3.18,2.1
+Brazil,Serie A,2025,20/11/2025,21:00,17:00,Bahia,Fortaleza,2,3,Rafael Rodrigo Klein,6,14,1,5,0,0,-,-,Não,-,-,1.5,4.36,5.79
+Brazil,Serie A,2025,20/11/2025,22:30,18:30,Corinthians,Sao Paulo,3,1,Anderson Daronco,15,17,1,2,0,0,-,-,Não,-,-,2.42,2.68,3.53
+Brazil,Serie A,2025,21/11/2025,00:30,20:30,Ceara,Internacional,1,2,Rodrigo Jose Pereira de Lima,8,15,2,1,1,1,4',89',Sim,0x0,1x2,2.14,3.15,3.51
+Brazil,Serie A,2025,22/11/2025,22:30,18:30,Botafogo RJ,Gremio,3,2,Felipe Fernandes de Lima,17,8,1,4,0,0,-,-,Não,-,-,1.64,3.73,5.16
+Brazil,Serie A,2025,23/11/2025,00:30,20:30,Flamengo RJ,Bragantino,3,0,Fernando Antonio Mendes de Salles Nascimento Filho,10,19,2,3,0,0,-,-,Não,-,-,1.31,05.08,09.09
+Brazil,Serie A,2025,23/11/2025,00:30,20:30,Palmeiras,Fluminense,0,0,Jonathan Benkenstein Pinheiro,15,19,3,2,0,0,-,-,Não,-,-,1.52,3.87,6.45
+Brazil,Serie A,2025,23/11/2025,19:00,15:00,Bahia,Vasco,1,0,Jefferson Ferreira de Moraes,10,11,2,3,1,1,84',68',Sim,0x0,1x0,1.65,3.83,4.96
+Brazil,Serie A,2025,23/11/2025,19:00,15:00,Sao Paulo,Juventude,2,1,Andre Luiz Skettino Policarpo Bento,15,18,5,1,0,1,-,86',Sim,1x0,2x1,1.61,3.68,5.7
+Brazil,Serie A,2025,23/11/2025,21:30,17:30,Sport Recife,Vitoria,1,3,Yuri Elino Ferreira Da Cruz,19,12,3,1,0,0,-,-,Não,-,-,3.29,3.31,2.17
+Brazil,Serie A,2025,23/11/2025,23:30,19:30,Cruzeiro,Corinthians,3,0,Alex Gomes Stefano,18,8,3,2,0,1,-,83',Sim,3x0,3x0,1.68,3.64,05.09
+Brazil,Serie A,2025,24/11/2025,22:00,18:00,Mirassol,Ceara,3,0,Lucas Casagrande,11,10,2,2,0,0,-,-,Não,-,-,1.76,3.46,4.68
+Brazil,Serie A,2025,25/11/2025,00:00,20:00,Internacional,Santos,1,1,Davi de Oliveira Lacerda,13,10,0,2,0,0,-,-,Não,-,-,1.91,3.31,04.08
+Brazil,Serie A,2025,26/11/2025,00:30,20:30,Atletico-MG,Flamengo RJ,1,1,Rafael Rodrigo Klein,10,8,3,2,1,0,90'+4,-,Sim,1x1,1x1,3.91,3.14,02.02
+Brazil,Serie A,2025,26/11/2025,00:30,20:30,Gremio,Palmeiras,3,2,Savio Pereira Sampaio,10,14,3,3,0,1,-,84',Sim,2x1,3x2,2.3,3.2,3.11
+Brazil,Serie A,2025,26/11/2025,22:00,18:00,Bragantino,Fortaleza,0,1,Bruno Arleu de Araujo,10,9,1,1,0,0,-,-,Não,-,-,1.8,3.67,4.15
+Brazil,Serie A,2025,27/11/2025,23:30,19:30,Fluminense,Sao Paulo,6,0,Lucas Paulo Torezin,8,11,1,1,0,0,-,-,Não,-,-,1.52,3.83,6.68
+Brazil,Serie A,2025,28/11/2025,22:00,18:00,Juventude,Bahia,1,1,Fernando Antonio Mendes de Salles Nascimento Filho,17,15,2,3,0,0,-,-,Não,-,-,3.1,3.36,2.22
+Brazil,Serie A,2025,28/11/2025,22:30,18:30,Vasco,Internacional,5,1,Rodrigo Jose Pereira de Lima,13,14,0,1,0,0,-,-,Não,-,-,2.41,3.14,2.98
+Brazil,Serie A,2025,29/11/2025,00:30,20:30,Santos,Sport Recife,3,0,Felipe Fernandes de Lima,11,15,0,2,0,0,-,-,Não,-,-,1.31,5.41,8.37
+Brazil,Serie A,2025,29/11/2025,19:00,15:00,Vitoria,Mirassol,2,0,Wilton Pereira Sampaio,15,11,1,2,0,0,-,-,Não,-,-,2.4,03.09,03.04
+Brazil,Serie A,2025,30/11/2025,00:00,20:00,Ceara,Cruzeiro,1,1,Savio Pereira Sampaio,12,14,2,4,0,0,-,-,Não,-,-,2.68,03.04,2.73
+Brazil,Serie A,2025,30/11/2025,19:00,15:00,Corinthians,Botafogo RJ,2,2,Jonathan Benkenstein Pinheiro,13,18,3,5,0,0,-,-,Não,-,-,2.1,3.21,3.54
+Brazil,Serie A,2025,30/11/2025,21:30,17:30,Fortaleza,Atletico-MG,1,0,Davi de Oliveira Lacerda,9,10,0,1,0,0,-,-,Não,-,-,2.24,3.17,3.24
+Brazil,Serie A,2025,02/12/2025,22:00,18:00,Vasco,Mirassol,0,2,Paulo Cesar Zanovelli da Silva,21,10,2,3,0,0,-,-,Não,-,-,02.08,3.33,3.48
+Brazil,Serie A,2025,03/12/2025,00:30,20:30,Gremio,Fluminense,1,2,Raphael Claus,14,14,3,1,0,0,-,-,Não,-,-,2.92,3.1,2.49
+Brazil,Serie A,2025,03/12/2025,22:00,18:00,Bragantino,Vitoria,4,0,Wagner do Nascimento Magalhaes,21,12,3,0,0,0,-,-,Não,-,-,1.8,3.45,4.48
+Brazil,Serie A,2025,03/12/2025,22:00,18:00,Fortaleza,Corinthians,2,1,Savio Pereira Sampaio,15,18,5,1,0,0,-,-,Não,-,-,1.86,3.28,4.45
+Brazil,Serie A,2025,03/12/2025,22:30,18:30,Juventude,Santos,0,3,Wilton Pereira Sampaio,13,12,2,2,0,0,-,-,Não,-,-,5.25,3.81,1.62
+Brazil,Serie A,2025,03/12/2025,23:00,19:00,Bahia,Sport Recife,2,0,Flavio Rodrigues De Souza,11,11,1,3,0,0,-,-,Não,-,-,1.18,6.89,12.69
+Brazil,Serie A,2025,03/12/2025,23:00,19:00,Sao Paulo,Internacional,3,0,Bruno Arleu de Araujo,16,19,1,2,0,0,-,-,Não,-,-,2.51,3.11,2.86
+Brazil,Serie A,2025,04/12/2025,00:30,20:30,Atletico-MG,Palmeiras,0,3,Rafael Rodrigo Klein,16,15,1,2,0,1,-,45',Sim,0x2,0x3,3.4,3.11,2.21
+Brazil,Serie A,2025,04/12/2025,00:30,20:30,Flamengo RJ,Ceara,1,0,Rodrigo Jose Pereira de Lima,11,5,0,0,0,0,-,-,Não,-,-,1.23,5.87,11.84
+Brazil,Serie A,2025,04/12/2025,22:30,18:30,Cruzeiro,Botafogo RJ,2,2,Anderson Daronco,12,15,2,2,0,1,-,90'+11,Sim,2x2,2x2,1.71,3.51,05.02
+Brazil,Serie A,2025,06/12/2025,21:30,17:30,Mirassol,Flamengo RJ,3,3,Lucas Casagrande,11,10,1,1,0,0,-,-,Não,-,-,1.32,05.08,8.62
+Brazil,Serie A,2025,07/12/2025,19:00,15:00,Atletico-MG,Vasco,5,0,Lucas Paulo Torezin,13,4,0,0,0,1,-,35',Sim,1x0,5x0,1.5,4.11,6.31
+Brazil,Serie A,2025,07/12/2025,19:00,15:00,Botafogo RJ,Fortaleza,4,2,Paulo Cesar Zanovelli da Silva,11,10,2,4,0,0,-,-,Não,-,-,1.75,3.79,4.25
+Brazil,Serie A,2025,07/12/2025,19:00,15:00,Ceara,Palmeiras,1,3,Bruno Arleu de Araujo,14,15,4,2,0,0,-,-,Não,-,-,02.01,3.27,3.75
+Brazil,Serie A,2025,07/12/2025,19:00,15:00,Corinthians,Juventude,1,1,Felipe Fernandes de Lima,18,17,0,1,0,0,-,-,Não,-,-,1.75,3.47,4.82
+Brazil,Serie A,2025,07/12/2025,19:00,15:00,Fluminense,Bahia,2,0,Matheus Delgado Candançan,12,22,2,3,0,0,-,-,Não,-,-,1.76,3.6,4.47
+Brazil,Serie A,2025,07/12/2025,19:00,15:00,Internacional,Bragantino,3,1,Davi de Oliveira Lacerda,18,15,3,4,0,0,-,-,Não,-,-,1.59,3.98,5.32
+Brazil,Serie A,2025,07/12/2025,19:00,15:00,Santos,Cruzeiro,3,0,Rodrigo Jose Pereira de Lima,8,12,2,2,0,0,-,-,Não,-,-,1.35,4.68,8.88
+Brazil,Serie A,2025,07/12/2025,19:00,15:00,Sport Recife,Gremio,0,4,Edina Alves Batista,6,15,1,4,0,0,-,-,Não,-,-,3.82,3.64,1.88
+Brazil,Serie A,2025,07/12/2025,19:00,15:00,Vitoria,Sao Paulo,1,0,Wilton Pereira Sampaio,16,18,5,1,0,0,-,-,Não,-,-,2.47,3.12,2.9
+Brazil,Serie A,2026,28/01/2026,22:00,18:00,Atletico-MG,Palmeiras,2,2,Bruno Arleu de Araujo,14,20,4,2,0,0,-,-,Não,-,-,2.99,03.06,2.42
+Brazil,Serie A,2026,28/01/2026,22:00,18:00,Coritiba,Bragantino,0,1,Paulo Cesar Zanovelli da Silva,9,19,1,6,1,0,30',-,Sim,0x0,0x1,2.62,2.91,2.87
+Brazil,Serie A,2026,28/01/2026,22:00,18:00,Internacional,Athletico-PR,0,1,Flavio Rodrigues De Souza,13,11,2,1,0,0,-,-,Não,-,-,1.97,3.21,3.93
+Brazil,Serie A,2026,28/01/2026,22:00,18:00,Vitoria,Remo,2,0,Ramon Abatti Abel,13,17,2,4,0,0,-,-,Não,-,-,1.79,3.34,4.62
+Brazil,Serie A,2026,28/01/2026,22:30,18:30,Fluminense,Gremio,2,1,Davi de Oliveira Lacerda,13,13,1,2,0,0,-,-,Não,-,-,1.59,3.79,5.53
+Brazil,Serie A,2026,28/01/2026,23:00,19:00,Chapecoense-SC,Santos,4,2,Savio Pereira Sampaio,10,5,3,3,0,0,-,-,Não,-,-,2.86,03.08,2.51
+Brazil,Serie A,2026,28/01/2026,23:00,19:00,Corinthians,Bahia,1,2,Anderson Daronco,14,14,3,5,0,1,-,87',Sim,1x2,1x2,2.21,3.31,3.15
+Brazil,Serie A,2026,29/01/2026,00:30,20:30,Sao Paulo,Flamengo RJ,2,1,Wilton Pereira Sampaio,14,11,0,0,0,1,-,90'+9,Sim,2x1,2x1,3.7,2.95,2.16
+Brazil,Serie A,2026,29/01/2026,23:00,19:00,Mirassol,Vasco,2,1,Rodrigo Jose Pereira de Lima,16,10,2,1,0,0,-,-,Não,-,-,1.89,3.3,4.13
+Brazil,Serie A,2026,30/01/2026,00:30,20:30,Botafogo RJ,Cruzeiro,4,0,Matheus Delgado Candançan,10,12,1,2,0,0,-,-,Não,-,-,2.39,03.03,3.11
+Brazil,Serie A,2026,04/02/2026,22:00,18:00,Bragantino,Atletico-MG,1,0,Lucas Paulo Torezin,14,8,3,2,0,0,-,-,Não,-,-,02.07,3.16,3.67
+Brazil,Serie A,2026,04/02/2026,22:00,18:00,Flamengo RJ,Internacional,1,1,Rodrigo Jose Pereira de Lima,20,18,4,3,0,0,-,-,Não,-,-,1.4,4.46,7.62
+Brazil,Serie A,2026,04/02/2026,23:00,19:00,Remo,Mirassol,2,2,Alex Gomes Stefano,15,9,2,2,0,0,-,-,Não,-,-,2.97,3.1,2.42
+Brazil,Serie A,2026,04/02/2026,23:00,19:00,Santos,Sao Paulo,1,1,Anderson Daronco,15,21,5,1,0,0,-,-,Não,-,-,2.21,3.13,3.29
+Brazil,Serie A,2026,05/02/2026,00:30,20:30,Gremio,Botafogo RJ,5,3,Felipe Fernandes de Lima,13,16,0,3,0,0,-,-,Não,-,-,2.28,3.1,3.21
+Brazil,Serie A,2026,05/02/2026,00:30,20:30,Palmeiras,Vitoria,5,1,Savio Pereira Sampaio,13,16,1,4,0,0,-,-,Não,-,-,1.31,4.86,9.17
+Brazil,Serie A,2026,05/02/2026,22:00,18:00,Bahia,Fluminense,1,1,Matheus Delgado Candançan,12,13,0,3,1,0,89',-,Sim,1x1,1x1,2.1,3.21,3.5
+Brazil,Serie A,2026,05/02/2026,23:00,19:00,Vasco,Chapecoense-SC,1,1,Wilton Pereira Sampaio,15,11,0,0,0,0,-,-,Não,-,-,1.54,3.9,5.98
+Brazil,Serie A,2026,06/02/2026,00:30,20:30,Cruzeiro,Coritiba,1,2,Bruno Arleu de Araujo,9,17,3,2,0,0,-,-,Não,-,-,1.37,4.31,8.94
+Brazil,Serie A,2026,11/02/2026,00:30,20:30,Vitoria,Flamengo RJ,1,2,Raphael Claus,12,21,3,4,0,0,-,-,Não,-,-,5.53,3.71,1.61
+Brazil,Serie A,2026,11/02/2026,22:00,18:00,Chapecoense-SC,Coritiba,3,3,Wagner do Nascimento Magalhaes,4,8,2,1,0,0,-,-,Não,-,-,2.69,03.06,2.67
+Brazil,Serie A,2026,11/02/2026,22:00,18:00,Mirassol,Cruzeiro,2,2,Braulio Da SIlva Machado,12,10,3,2,1,0,90'+5,-,Sim,2x2,2x2,2.38,03.09,03.04
+Brazil,Serie A,2026,11/02/2026,23:00,19:00,Atletico-MG,Remo,3,3,Matheus Delgado Candançan,11,14,0,2,0,0,-,-,Não,-,-,1.4,4.36,7.61
+Brazil,Serie A,2026,12/02/2026,00:30,20:30,Sao Paulo,Gremio,2,0,Savio Pereira Sampaio,11,16,3,4,0,1,-,47',Sim,1x0,2x0,1.9,3.23,4.22
+Brazil,Serie A,2026,12/02/2026,00:30,20:30,Vasco,Bahia,0,1,Paulo Cesar Zanovelli da Silva,15,14,5,5,0,0,-,-,Não,-,-,2.23,3.26,3.15
+Brazil,Serie A,2026,12/02/2026,22:00,18:00,Athletico-PR,Santos,2,1,Ramon Abatti Abel,15,15,1,3,0,0,-,-,Não,-,-,1.99,3.19,3.89
+Brazil,Serie A,2026,12/02/2026,22:30,18:30,Fluminense,Botafogo RJ,1,0,Rafael Rodrigo Klein,18,11,5,3,1,0,60',-,Sim,1x0,1x0,1.8,3.26,4.81
+Brazil,Serie A,2026,12/02/2026,23:00,19:00,Corinthians,Bragantino,2,0,Felipe Fernandes de Lima,17,24,4,4,0,0,-,-,Não,-,-,1.91,3.16,4.29
+Brazil,Serie A,2026,13/02/2026,00:30,20:30,Internacional,Palmeiras,1,3,Davi de Oliveira Lacerda,13,8,1,1,0,0,-,-,Não,-,-,03.03,3.31,2.27
+Brazil,Serie A,2026,19/02/2026,22:30,18:30,Athletico-PR,Corinthians,0,1,Rodrigo Jose Pereira de Lima,15,10,3,4,0,0,-,-,Não,-,-,2.59,2.92,2.89
+Brazil,Serie A,2026,25/02/2026,22:00,18:00,Bragantino,Athletico-PR,1,1,Wagner do Nascimento Magalhaes,18,16,5,2,2,0,51' e 87',-,Sim,1x0,1x1,02.02,3.2,3.71
+Brazil,Serie A,2026,25/02/2026,22:00,18:00,Remo,Internacional,1,1,Bruno Arleu de Araujo,16,14,5,1,0,0,-,-,Não,-,-,3.22,3.34,2.14
+Brazil,Serie A,2026,25/02/2026,22:30,18:30,Coritiba,Sao Paulo,0,1,Wilton Pereira Sampaio,5,19,4,3,0,0,-,-,Não,-,-,2.5,03.04,2.9
+Brazil,Serie A,2026,25/02/2026,23:00,19:00,Cruzeiro,Corinthians,1,1,Davi de Oliveira Lacerda,15,14,3,3,1,0,80',-,Sim,1x0,1x1,1.7,3.48,05.03
+Brazil,Serie A,2026,26/02/2026,00:30,20:30,Gremio,Atletico-MG,2,1,Raphael Claus,14,15,4,1,0,1,-,17',Sim,0x0,2x1,2.19,3.22,3.22
+Brazil,Serie A,2026,26/02/2026,00:30,20:30,Palmeiras,Fluminense,2,1,Felipe Fernandes de Lima,16,16,3,4,0,0,-,-,Não,-,-,1.65,3.71,05.01
+Brazil,Serie A,2026,26/02/2026,22:00,18:00,Santos,Vasco,2,1,Rafael Rodrigo Klein,19,17,2,1,0,0,-,-,Não,-,-,02.02,3.35,3.56
+Brazil,Serie A,2026,11/03/2026,00:30,20:30,Mirassol,Santos,2,2,Raphael Claus,9,7,2,2,0,0,-,-,Não,-,-,1.73,3.62,4.5
+Brazil,Serie A,2026,11/03/2026,22:00,18:00,Atletico-MG,Internacional,1,0,Ramon Abatti Abel,16,20,2,2,0,0,-,-,Não,-,-,02.03,3.37,3.51
+Brazil,Serie A,2026,11/03/2026,23:00,19:00,Bahia,Vitoria,1,1,Rafael Rodrigo Klein,17,19,1,1,0,0,-,-,Não,-,-,1.68,3.58,4.93
+Brazil,Serie A,2026,12/03/2026,00:30,20:30,Corinthians,Coritiba,0,2,Paulo Cesar Zanovelli da Silva,15,18,2,2,0,0,-,-,Não,-,-,1.63,3.61,5.46
+Brazil,Serie A,2026,12/03/2026,00:30,20:30,Flamengo RJ,Cruzeiro,2,0,Flavio Rodrigues De Souza,19,13,2,2,0,0,-,-,Não,-,-,1.47,04.08,6.64
+Brazil,Serie A,2026,12/03/2026,22:00,18:00,Remo,Fluminense,0,2,Wilton Pereira Sampaio,11,14,2,1,0,0,-,-,Não,-,-,3.92,3.52,1.87
+Brazil,Serie A,2026,12/03/2026,22:30,18:30,Vasco,Palmeiras,2,1,Savio Pereira Sampaio,6,18,2,2,0,0,-,-,Não,-,-,3,3.21,2.33
+Brazil,Serie A,2026,12/03/2026,23:00,19:00,Sao Paulo,Chapecoense-SC,2,0,Lucas Casagrande,13,12,0,1,0,0,-,-,Não,-,-,1.41,4.43,7.11
+Brazil,Serie A,2026,13/03/2026,00:30,20:30,Gremio,Bragantino,1,1,Davi de Oliveira Lacerda,13,13,2,4,0,0,-,-,Não,-,-,2.21,3.29,3.12
+Brazil,Serie A,2026,14/03/2026,21:30,17:30,Vitoria,Atletico-MG,2,0,Joao Vitor Gobi,18,13,2,3,0,0,-,-,Não,-,-,2.33,03.01,3.15
+Brazil,Serie A,2026,14/03/2026,23:30,19:30,Botafogo RJ,Flamengo RJ,0,3,Anderson Daronco,16,10,3,2,1,0,45'+9,-,Sim,0x2,0x3,3.97,3.25,1.93
+Brazil,Serie A,2026,15/03/2026,19:00,15:00,Fluminense,Athletico-PR,3,2,Matheus Delgado Candançan,14,9,2,3,0,1,-,28',Sim,1x1,3x2,1.78,3.39,4.53
+Brazil,Serie A,2026,15/03/2026,19:00,15:00,Internacional,Bahia,0,1,Fernando Antonio Mendes de Salles Nascimento Filho,20,20,3,2,0,0,-,-,Não,-,-,1.8,3.62,04.04
+Brazil,Serie A,2026,15/03/2026,19:00,15:00,Santos,Corinthians,1,1,Flavio Rodrigues De Souza,20,15,5,3,1,0,87',-,Sim,1x1,1x1,2.48,03.02,2.92
+Brazil,Serie A,2026,15/03/2026,21:30,17:30,Coritiba,Remo,1,0,Rafael Rodrigo Klein,13,11,2,3,0,0,-,-,Não,-,-,1.72,3.56,4.63
+Brazil,Serie A,2026,15/03/2026,21:30,17:30,Palmeiras,Mirassol,1,0,Rodrigo Jose Pereira de Lima,14,17,1,3,0,0,-,-,Não,-,-,1.63,3.76,05.09
+Brazil,Serie A,2026,15/03/2026,23:30,19:30,Bragantino,Sao Paulo,1,2,Bruno Arleu de Araujo,18,13,4,4,0,0,-,-,Não,-,-,2.36,03.08,03.04
+Brazil,Serie A,2026,15/03/2026,23:30,19:30,Cruzeiro,Vasco,3,3,Lucas Paulo Torezin,9,11,2,3,0,1,-,59',Sim,1x2,3x3,1.88,3.27,4.14
+Brazil,Serie A,2026,16/03/2026,23:00,19:00,Chapecoense-SC,Gremio,1,1,Bruno Pereira Vasconcelos,16,10,3,3,0,0,-,-,Não,-,-,2.91,3.35,2.29
+Brazil,Serie A,2026,18/03/2026,22:00,18:00,Bahia,Bragantino,2,0,Ramon Abatti Abel,15,16,3,1,0,0,-,-,Não,-,-,1.64,3.69,5.13
+Brazil,Serie A,2026,18/03/2026,22:00,18:00,Palmeiras,Botafogo RJ,2,1,Rafael Rodrigo Klein,13,13,1,3,0,1,-,45',Sim,1x0,2x1,1.49,04.06,6.24
+Brazil,Serie A,2026,18/03/2026,22:30,18:30,Athletico-PR,Cruzeiro,2,1,Rodrigo Jose Pereira de Lima,26,20,2,3,0,0,-,-,Não,-,-,2.11,3.2,3.45
+Brazil,Serie A,2026,18/03/2026,23:00,19:00,Atletico-MG,Sao Paulo,1,0,Fernando Antonio Mendes de Salles Nascimento Filho,16,17,1,1,0,0,-,-,Não,-,-,2.31,03.01,3.2
+Brazil,Serie A,2026,18/03/2026,23:00,19:00,Mirassol,Coritiba,0,1,Bruno Arleu de Araujo,8,11,2,2,0,0,-,-,Não,-,-,1.63,3.6,5.43
+Brazil,Serie A,2026,19/03/2026,00:30,20:30,Santos,Internacional,1,2,Davi de Oliveira Lacerda,6,12,4,3,0,0,-,-,Não,-,-,02.09,3.21,3.47
+Brazil,Serie A,2026,19/03/2026,00:30,20:30,Vasco,Fluminense,3,2,Raphael Claus,9,10,2,0,0,0,-,-,Não,-,-,3.52,3.11,2.11
+Brazil,Serie A,2026,19/03/2026,22:00,18:00,Gremio,Vitoria,2,0,Alex Gomes Stefano,12,17,1,3,0,0,-,-,Não,-,-,1.78,3.39,4.55
+Brazil,Serie A,2026,19/03/2026,23:00,19:00,Flamengo RJ,Remo,3,0,Paulo Cesar Zanovelli da Silva,14,11,2,2,0,0,-,-,Não,-,-,1.14,7.42,16.04
+Brazil,Serie A,2026,20/03/2026,00:30,20:30,Chapecoense-SC,Corinthians,0,0,Wilton Pereira Sampaio,18,11,3,4,0,0,-,-,Não,-,-,3.24,3.1,2.25
+Brazil,Serie A,2026,21/03/2026,19:00,15:00,Bragantino,Botafogo RJ,1,2,Lucas Casagrande,12,9,2,3,0,0,-,-,Não,-,-,1.89,3.37,3.98
+Brazil,Serie A,2026,21/03/2026,21:30,17:30,Fluminense,Atletico-MG,1,0,Flavio Rodrigues De Souza,18,15,5,5,0,0,-,-,Não,-,-,1.63,3.5,5.62
+Brazil,Serie A,2026,22/03/2026,00:00,20:00,Sao Paulo,Palmeiras,0,1,Anderson Daronco,13,21,3,5,0,0,-,-,Não,-,-,2.62,2.97,2.78
+Brazil,Serie A,2026,22/03/2026,19:00,15:00,Athletico-PR,Coritiba,2,0,Raphael Claus,11,10,0,2,0,1,-,90'+4,Sim,2x0,2x0,1.93,3.14,4.16
+Brazil,Serie A,2026,22/03/2026,19:00,15:00,Cruzeiro,Santos,0,0,Ramon Abatti Abel,18,16,2,4,0,0,-,-,Não,-,-,1.67,3.57,05.04
+Brazil,Serie A,2026,22/03/2026,19:00,15:00,Remo,Bahia,4,1,Joao Vitor Gobi,15,10,3,1,0,0,-,-,Não,-,-,2.92,3.12,2.41
+Brazil,Serie A,2026,22/03/2026,19:00,15:00,Vasco,Gremio,2,1,Davi de Oliveira Lacerda,11,4,3,1,0,0,-,-,Não,-,-,1.85,3.45,04.03
+Brazil,Serie A,2026,22/03/2026,21:30,17:30,Internacional,Chapecoense-SC,2,0,Bruno Arleu de Araujo,16,9,2,3,0,1,-,90'+4,Sim,2x0,2x0,1.37,4.72,7.48
+Brazil,Serie A,2026,22/03/2026,21:30,17:30,Vitoria,Mirassol,1,0,Wagner do Nascimento Magalhaes,18,8,3,3,0,0,-,-,Não,-,-,2.51,03.07,2.82
+Brazil,Serie A,2026,22/03/2026,23:30,19:30,Corinthians,Flamengo RJ,1,1,Rodrigo Jose Pereira de Lima,21,13,2,3,0,1,-,52',Sim,1x1,1x1,3.28,03.03,2.26
+Brazil,Serie A,2026,29/03/2026,23:30,19:30,Athletico-PR,Botafogo RJ,4,1,Paulo Cesar Zanovelli da Silva,15,13,2,3,0,0,-,-,Não,-,-,1.95,3.21,3.9
